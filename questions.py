@@ -14,5 +14,9 @@ QUESTIONS = [
     'What is required in the HTML <head>?',  # charset, viewport, title https://htmlhead.dev
     'What’s difference between The Internet and The Web?',  # hardware vs software
     'What characters do you use to comment your code? What language are you using?',  # Depends on the language
-    'What\'s another question?',
+    'Answer with a GIF. \n What is HTTP status 404?',  # Not Found https://httpstatuses.com
+    'Answer with a GIF. \n What is HTTP status 200?',  # Okay https://httpstatuses.com
+    'Answer with a GIF. \n What is HTTP status 308?',  # Permanent Redirect https://httpstatuses.com
+    'Answer with a GIF. \n What is HTTP status 100?',  # Continue https://httpstatuses.com
+    'Answer with a GIF. \n What is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     ]
