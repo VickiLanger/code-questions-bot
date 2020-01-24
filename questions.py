@@ -19,9 +19,9 @@ QUESTIONS = [
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
     'ELI5: What is the DOM?',  # https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
     'ELI5: What are the APIs?',  # https://developer.mozilla.org/en-US/docs/Web/API
-    'Answer with a GIF. \n What is HTTP status 404?',  # Not Found https://httpstatuses.com
-    'Answer with a GIF. \n What is HTTP status 200?',  # Okay https://httpstatuses.com
-    'Answer with a GIF. \n What is HTTP status 308?',  # Permanent Redirect https://httpstatuses.com
-    'Answer with a GIF. \n What is HTTP status 100?',  # Continue https://httpstatuses.com
-    'Answer with a GIF. \n What is HTTP status 503?',  # Service Not Available https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 404?',  # Not Found https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 200?',  # Okay https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 308?',  # Permanent Redirect https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 100?',  # Continue https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     ]
