@@ -22,9 +22,7 @@ api = tweepy.API(auth)
 
 
 def main():
-    # print("I'm working, kinda")
-    # interval = 60 * 60 * 6  # seconds * minutes * hours
-    interval = 30  # every 30 seconds, for testing purposes
+    interval = 60 * 60 * 6  # seconds * minutes * hours
     while True:
         print("finding a question...")
         question = get_question()
