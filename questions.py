@@ -15,7 +15,7 @@ QUESTIONS = [
     'What is required in the HTML <head>?',  # charset, viewport, title https://htmlhead.dev
     'What’s difference between The Internet and The Web?',  # hardware vs software
     'What characters do you use to comment your code? What language are you using?',  # Depends on the language
-    'Why does List use () instead of []?',  # The keyboard used to develop had issues with the [ key
+    'Why does List, the language,  use () instead of []?',  # The keyboard used to develop had issues with the [ key
     'What does Wi-Fi stand for?',  # nothing https://www.webopedia.com/DidYouKnow/Computer_Science/wifi_explained.asp
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
     'ELI5: What is the DOM?',  # https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
