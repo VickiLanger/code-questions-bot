@@ -8,6 +8,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 QUESTIONS = [
+    'What questions would you like us to ask?'  # Open-ended, no right answer
     'Who has been called the worlds first computer programmer?',  # Ada Lovelace
     'Who popularized the idea of machine-independent programming languages?',  # Grace Hopper
     'What is "!" used for in "!=" ?',  # Not
