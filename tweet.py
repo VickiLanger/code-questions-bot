@@ -5,7 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 import tweepy
-from time import sleep
+import time
 
 from os import environ
 
@@ -28,7 +28,7 @@ def main():
     while True:
         print("finding a question...")
         question = get_question()
-        print("chose a question...")
+        print("chose question: " + question)
         api.update_status(question)
         print('question has been tweeted')
         time.sleep(interval)
