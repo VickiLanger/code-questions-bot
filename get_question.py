@@ -10,6 +10,6 @@ from questions import QUESTIONS
 
 
 def get_question():
-    question = choice(QUESTIONS)
+    question_to_tweet = choice(QUESTIONS)
 
-    return question
+    return question_to_tweet
