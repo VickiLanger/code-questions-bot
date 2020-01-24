@@ -9,6 +9,8 @@ from time import sleep
 
 from os import environ
 
+import get_question
+
 consumer_key = environ['consumer_key']
 consumer_secret = environ['consumer_secret']
 access_token = environ['access_token']
