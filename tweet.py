@@ -25,6 +25,7 @@ print(user.name)
 
 
 def main():
+    print("I'm working, kinda")
     # interval = 60 * 60 * 6  # seconds * minutes * hours
     interval = 30  # every 30 seconds, for testing purposes
     while True:
