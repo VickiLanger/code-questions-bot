@@ -30,10 +30,10 @@ def main():
     interval = 30  # every 30 seconds, for testing purposes
     while True:
         print("finding a question...")
-    question = get_question()
-    api.update_status(question)
-    print('question has been tweeted')
-    time.sleep(interval)
+        question = get_question()
+        api.update_status(question)
+        print('question has been tweeted')
+        time.sleep(interval)
 
 
 main()
