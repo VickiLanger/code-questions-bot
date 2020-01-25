@@ -6,7 +6,7 @@
 
 If you would like to contribute, feel free to make a pull request.
 
-First time? I suggest starting with adding a question to questions.py. Check out [issue #5](https://github.com/VickiLanger/code-questions-bot/issues/5) for more details. It will tell you 
+First time? I suggest starting with adding a question to questions.py. Check out [issue #5](https://github.com/VickiLanger/code-questions-bot/issues/5) for more details.
 
 ### Who Has Contibuted?
 All contributions are greatly appreciated. 
