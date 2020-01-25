@@ -20,6 +20,27 @@ QUESTIONS = [
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
     'ELI5: What is the DOM?',  # https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
     'ELI5: What are the APIs?',  # https://developer.mozilla.org/en-US/docs/Web/API
+    'ELI5: "=" != "==" != "==="',  # 
+    'What is Alan Turing known for?',  # 
+    'What is Open Source Software (OSS)?',  # 
+    'What does it mean to be "Turing complete"? ',  # 
+    'What is an instance and what does it mean to instantiate?',  # 
+    'What is the difference between high-level and low-level languages?',  #
+    'What was the first song ever sung by a computer?',  # "Daisy Bell" was composed by Harry Dacre in 1892. In 1961, the IBM 7094 became the first computer to sing, singing the song Daisy Bell
+    'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
+    'What is the name of the Java mascot?',  # Duke
+    'Who is the creator of JavaScript?',  # Brendan Eich
+    'What was Java called before it was Java? \nextra points: why was it changed?',  #  Oak. Thename was ruled out by Sun's trademark lawyers since the name was used by the company Oak Technologies
+    'What programming language did Bjarne Stroustrup create?',  # C++
+    'What\'s the story behind the first computer virus?',  # http://web.eecs.umich.edu/~aprakash/eecs588/handouts/cohen-viruses.html
+    'What was the first computer bug?',  # an actual bug
+    'Where did the language "C" get it\'s name?',  # C language succeeds B language
+    'In a tree, where is the root?',  # The top
+    'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
+    'Who recorded the first computer bug? What were they doing?',  # Grace Hopper recorded the first computer ‘bug’ in the book as she was working for the MARK II computer. https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/
+    'How was the language Java invented?',  # James Gosling, at Sun Labs, around 1992; the group was building a set-top box and started by “cleaning up” C++ and wound up with a new language and runtime.
+    'What was PHP initially created for?',  # Lerdorf had created the language, or interface at the time, for the purpose of managing his personal website.
+    'What was Java initally design for?',  # Java was designed with the primary aim for use in Interactive television
     'Answer with a GIF. \nWhat is HTTP status 404?',  # Not Found https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 200?',  # Okay https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 308?',  # Permanent Redirect https://httpstatuses.com
