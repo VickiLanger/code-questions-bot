@@ -1,5 +1,4 @@
 # Twitter Bot built with Python & Tweepy
-A Python-built Twitter bot using Tweepy. Tweets code questions.
 
 [Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/#)
 
