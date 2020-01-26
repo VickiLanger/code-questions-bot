@@ -23,7 +23,7 @@ api = tweepy.API(auth)
 
 def main():
     interval = 60 * 60 * 6  # seconds * minutes * hours
-    reply_with = 'Did it work? \nIf this is a reply to "testing an automatic reply to this post", then it worked!!!'  # 'Here\'s our question! Stick around, we\'ll have another in 6 hours! \nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
+    reply_with = 'If this is a reply to "testing an automatic reply to this post", then it worked!!! :D \nIf it\'s not, please send help. :()  # 'Here\'s our question! Stick around, we\'ll have another in 6 hours! \nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
 
     while True:
         # print("finding a question...")
