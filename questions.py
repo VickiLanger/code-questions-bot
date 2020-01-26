@@ -9,6 +9,8 @@ Vicki Langer (@vicki_langer)
 
 QUESTIONS = [
     'testing an automatic reply to this post',
+    ]
+
     """
     'What questions would you like us to ask? Or what kinds of questions would you like to see?',  # Open-ended, no right answer
     'Who has been called the worlds first computer programmer?',  # Ada Lovelace
@@ -87,4 +89,3 @@ QUESTIONS = [
     'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
     """
-    ]
