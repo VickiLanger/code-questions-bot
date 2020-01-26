@@ -8,9 +8,14 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 QUESTIONS = [
-    'testing an automatic reply to this post',
+    # 'testing an automatic reply to this post',
+    'What is Alan Turing known for?',  #
+    'What language was used in "Stranger Things" Season 2?',  # BASIC https://moviecode.tumblr.com/post/166870949505/at-least-they-tried-basic-from-stranger-things
+    'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
+    'Answer with a GIF. \nWhat is HTTP status 417?',  # Expectation Failed https://httpstatuses.com
+    'Whats the difference between an editor and an IDE?',  # 
     ]
-    
+
     # 'What questions would you like us to ask? Or what kinds of questions would you like to see?',  # Open-ended, no right answer
     # 'Who has been called the worlds first computer programmer?',  # Ada Lovelace
     # 'Who popularized the idea of machine-independent programming languages?',  # Grace Hopper
@@ -21,7 +26,9 @@ QUESTIONS = [
     # 'Why does List, the language,  use () instead of []?',  # The keyboard used to develop had issues with the [ key
     # 'What does Wi-Fi stand for?',  # nothing https://www.webopedia.com/DidYouKnow/Computer_Science/wifi_explained.asp
     # 'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
+    # 'Whats the difference between an editor and an IDE?',  # 
     # 'ELI5: What is the DOM?',  # https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+    # 'ELI5: What is debugging?',  # 
     # 'ELI5: What are the APIs?',  # https://developer.mozilla.org/en-US/docs/Web/API
     # 'ELI5: What is Git?',  #
     # 'ELI5: What is an IDE?',  #
