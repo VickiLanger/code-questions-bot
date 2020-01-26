@@ -32,9 +32,9 @@ def main():
         api.update_status(question)
         print('question has been tweeted')
         # capture id of that tweet: api.user_timeline(screen_name = toReply, count=1)
-        api.user_timeline('@CodeQBot' = toReply, count=1)
+        api.user_timeline('@CodeQBot', toReply, count=1)
         # reply to that tweet: API.update_status(reply_with, '@CodeQBot')
-        API.update_status(reply_with, '@CodeQBot')
+        api.update_status(reply_with, '@CodeQBot')
         time.sleep(interval)
 
 
