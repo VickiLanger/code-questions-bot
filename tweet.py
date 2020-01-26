@@ -23,14 +23,14 @@ api = tweepy.API(auth)
 
 def main():
     interval = 60 * 60 * 6  # seconds * minutes * hours
-    reply_with = 'Did it work? \nIt did if you see this!!!'  # 'Here\'s our question! Stick around, we\'ll have another in 6 hours! \nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
+    reply_with = 'Did it work? \nIf this is a reply to "testing an automatic reply to this post", then it worked!!!'  # 'Here\'s our question! Stick around, we\'ll have another in 6 hours! \nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
 
     while True:
         # print("finding a question...")
-        question = get_question()
+        # question = get_question()
         # print("chose question: " + question)
-        api.update_status(question)
-        print('question has been tweeted')
+        # api.update_status(question)
+        # print('question has been tweeted')
         # capture id of that tweet: api.user_timeline(screen_name = toReply, count=1)
         question_just_posted = api.user_timeline('@CodeQBot', count=1)
         print(question_just_posted)
