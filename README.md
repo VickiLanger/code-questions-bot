@@ -1,6 +1,6 @@
 # Twitter Bot built with Python & Tweepy
 
-[Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/#)
+[Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/code-questions-bot-42io)
 
 ## Contributing
 
