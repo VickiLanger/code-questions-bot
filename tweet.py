@@ -23,7 +23,7 @@ api = tweepy.API(auth)
 
 def main():
     interval = 60 * 60 * 6  # seconds * minutes * hours
-    reply_with = 'If this is a reply to "testing an automatic reply to this post", then it worked!!! :D \nIf it\'s not, please send help. :('  # 'Here\'s our question! Stick around, we\'ll have another in 6 hours! \nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
+    reply_with = '@CodeQBot If this is a reply to "testing an automatic reply to this post", then it worked!!! :D \nIf it\'s not, please send help. :('  # 'Here\'s our question! Stick around, we\'ll have another in 6 hours! \nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
 
     while True:
         # print("finding a question...")
@@ -35,7 +35,7 @@ def main():
         question_just_posted = api.user_timeline('@CodeQBot', count=1)
         print(question_just_posted)
         # reply to that tweet: API.update_status(reply_with, '@CodeQBot')
-        api.update_status(reply_with, '@CodeQBot')
+        api.update_status(status = reply_with, in_reply_to_status_id = tweet.id)
         time.sleep(interval)
 
 
