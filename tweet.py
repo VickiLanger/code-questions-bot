@@ -27,16 +27,16 @@ def main():
     reply_with = '@CodeQBot If this is a reply to "testing an automatic reply to this post", then it worked!!! :D \nIf it\'s not, please send help. :('
 
     while True:
-        print("finding a question...")
-        question = get_question()
-        print("chose question: " + question)
-        api.update_status(question)
-        print('question has been tweeted')
+        # print("finding a question...")
+        # question = get_question()
+        # print("chose question: " + question)
+        # api.update_status(question)
+        # print('question has been tweeted')
         # capture id of that tweet: api.user_timeline(screen_name = toReply, count=1)
-        # question_just_posted = api.user_timeline('@CodeQBot', count=1)
+        question_just_posted = api.user_timeline('@CodeQBot', count=1)
         # print(question_just_posted)
         # reply to that tweet
-        # api.update_status(status = reply_with, in_reply_to_status_id = tweet.id)
+        api.update_status(status = reply_with, in_reply_to_status_id = tweet.id)
         time.sleep(interval)
 
 
