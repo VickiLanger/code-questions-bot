@@ -36,7 +36,7 @@ def main():
         question_just_posted = api.user_timeline('@CodeQBot', count=1)
         # print(question_just_posted)
         # reply to that tweet
-        api.update_status(status = reply_with, in_reply_to_status_id = tweet.id)
+        api.update_status(status = reply_with, in_reply_to_status_id = question_just_posted)
         time.sleep(interval)
 
 
