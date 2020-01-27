@@ -8,12 +8,12 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 QUESTIONS = [
-    # 'testing an automatic reply to this post',
-    'What is Alan Turing known for?',  #
-    'What language was used in "Stranger Things" Season 2?',  # BASIC https://moviecode.tumblr.com/post/166870949505/at-least-they-tried-basic-from-stranger-things
-    'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
-    'Answer with a GIF. \nWhat is HTTP status 417?',  # Expectation Failed https://httpstatuses.com
-    'Whats the difference between an editor and an IDE?',  # 
+    'testing an automatic reply to this post',
+    # 'ELI5: What is Git?',  #
+    # 'What language was used in "Stranger Things" Season 2?',  # BASIC https://moviecode.tumblr.com/post/166870949505/at-least-they-tried-basic-from-stranger-things
+    # 'What was Java called before it was Java? \nextra points: why was it changed?',  # Oak. Thename was ruled out by Sun's trademark lawyers since the name was used by the company Oak Technologies
+    # 'What is required in the HTML <head>?',  # charset, viewport, title https://htmlhead.dev
+    # 'What’s difference between The Internet and The Web?',  # hardware vs software
     ]
 
     # 'What questions would you like us to ask? Or what kinds of questions would you like to see?',  # Open-ended, no right answer
