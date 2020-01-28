@@ -41,6 +41,7 @@ QUESTIONS = [
     'When would you use WET principles instead of DRY?',  # 
     'When would you use DRY principles instead of WET?',  # 
     'What is clean code? How do you make sure you code is clean?',  # 
+    'What are comments for?',  #
 
     # Language Creation
     'How was the language Java invented?',  # James Gosling, at Sun Labs, around 1992; the group was building a set-top box and started by “cleaning up” C++ and wound up with a new language and runtime.
