@@ -32,6 +32,7 @@ def main():
         tweet = api.update_status(question)  # variable used later for reply to this tweet
         print('question has been tweeted')
         api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
+        print('reply has been tweeted')
         time.sleep(interval)
 
 
