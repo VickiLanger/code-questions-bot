@@ -34,7 +34,7 @@ def main():
         print('question has been tweeted')
         # capture id of that tweet: api.user_timeline(screen_name = toReply, count=1)
         # reply to that tweet
-        reply = api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=true)
+        reply = api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
         time.sleep(interval)
 
 
