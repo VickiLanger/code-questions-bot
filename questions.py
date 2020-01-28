@@ -80,8 +80,7 @@ QUESTIONS = [
     'What does VPN stand for? What is it?',  # Virtual Private Network
     'What does XML stand for? What is it?',  # Extensible Markup Language
     'What does SOLID stand for? What is it?',  # Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion https://en.wikipedia.org/wiki/SOLID
-    'What does XX stand for? What is it?',  # 
-    'What does XX stand for? What is it?',  # 
+    'What does PWA stand for? What is it?',  # Progressive Web App
 
     # HTTP Statuses
     'Answer with a GIF. \nWhat is HTTP status 100?',  # Continue https://httpstatuses.com
