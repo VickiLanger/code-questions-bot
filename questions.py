@@ -110,12 +110,12 @@ QUESTIONS = [
 
     # Opinions Welcome Here
     'What is the single best book code/programming book you\'ve read?', 
-    'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
-    'Light mode or dark mode? Why?',
-    'What\'s the best learning resource you\'ve used? Why?'',
-    'What editor or IDE do you use? Any special reason?',
+    # 'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
+    # 'Light mode or dark mode? Why?',
+    #'What\'s the best learning resource you\'ve used? Why?'',
+    #'What editor or IDE do you use? Any special reason?',
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
-    'How did you get into coding/programming?',
+    #'How did you get into coding/programming?',
     'What badass ladies you are following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass dudes you are following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass trans* peeps you are following that everyone else should follow? \nWhy? \nTag \'em',
@@ -123,4 +123,9 @@ QUESTIONS = [
     'Do you have a portfolio? Why or why not? \nShare a link'
     'Do you write you on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
     'What\'s the weirdest bug you\'ve dealt with? \nTell us about it.',
+    'What was your latest win?',
+    #'What do you need help with? \nor \nWhat can you help someone with?',
+    'What are your goals for the next few days?',
+    'Do you work with Open Source? What project(s)?',
+    #'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     ]
