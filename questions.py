@@ -38,6 +38,9 @@ QUESTIONS = [
     'In a tree, where is the root?',  # The top
     'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
     'Who recorded the first computer bug? What were they doing?',  # Grace Hopper recorded the first computer ‘bug’ in the book as she was working for the MARK II computer. https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/
+    'When would you use WET principles instead of DRY?',  # 
+    'When would you use DRY principles instead of WET?',  # 
+    'What is clean code? How do you make sure you code is clean?',  # 
 
     # Language Creation
     'How was the language Java invented?',  # James Gosling, at Sun Labs, around 1992; the group was building a set-top box and started by “cleaning up” C++ and wound up with a new language and runtime.
@@ -55,29 +58,70 @@ QUESTIONS = [
     'In "Doctor Who" Season 7 Episode 2, what code is guiding the missiles?',  # In Doctor Who S07E02, missiles are being guided by the power of SVGs.
     'In "Silicon Valley" Season 3 Episode 1, what language is being used?',  # https://www.reddit.com/r/SiliconValleyHBO/comments/4gbra7/i_got_the_silicon_valley_s03e01_code_to_compile/)
 
+    # Alphabet Soup aka Acronyms
+    'What do WET and DRY stand for? When would you use these?',  # Write Everything Twice, Dont Repeat Yourself
+    'What does CRUD stand for? When would you use it?',  # Create Read Update Delete
+    'What does API stand for? What is it?',  # Application Program Interface
+    'What does ASCII stand for? What is it?',  # American Standard Code For Information Interchange
+    'What does A11Y stand for? What is it?',  # Accessibility
+    'What does BLOB stand for? What is it?',  # Binary Large Object
+    'What does 2FA stand for? What is it?',  # 2 factor Auth
+    'What does IDE stand for? What is it?',  # Integrate Development Environment
+    'What does DOM stand for? What is it?',  # Document Object Model
+    'What does HTML stand for? What is it?',  # Hyper-Text Markup Language
+    'What does CSS stand for? What is it?',  # Cascading Style Sheets
+    'What does HTTP stand for? What is it?',  # HyperText Transfer Protocol
+    'What does HTTPS stand for? What is it?',  # HyperText Transfer Protocol Secure
+    'What does GUI stand for? What is it?',  # Graphical User Interface
+    'What does OOP stand for? What is it?',  # Object Oriented Programming
+    'What does FP stand for? What is it?',  # Funtional Programming
+    'What does SOAP stand for? What is it?',  # Simple Object Access Protocol
+    'What does SSL stand for? What is it?',  # Secure Sockets Layer
+    'What does VPN stand for? What is it?',  # Virtual Private Network
+    'What does XML stand for? What is it?',  # Extensible Markup Language
+    'What does SOLID stand for? What is it?',  # Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion https://en.wikipedia.org/wiki/SOLID
+    'What does XX stand for? What is it?',  # 
+    'What does XX stand for? What is it?',  # 
+
     # HTTP Statuses
-    # 'Answer with a GIF. \nWhat is HTTP status 100?',  # Continue https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 101?',  # Switching Protocols https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 100?',  # Continue https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 101?',  # Switching Protocols https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 102?',  # Processing https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 200?',  # Okay https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 201?',  # Created https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 200?',  # Okay https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 201?',  # Created https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 202?',  # Accepted https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 300?',  # Multiple Choices https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 300?',  # Multiple Choices https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 301?',  # Moved Permanently https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 302?',  # Found https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 302?',  # Found https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 305?',  # Use proxy https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 307?',  # Temporary Redirect https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 308?',  # Permanent Redirect https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 400?',  # Bad Request https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 308?',  # Permanent Redirect https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 400?',  # Bad Request https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 401?',  # Unauthorized https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 402?',  # Payment Required https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 403?',  # Forbidden https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 403?',  # Forbidden https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 404?',  # Not Found https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 417?',  # Expectation Failed https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 418?',  # I'm a teapot https://httpstatuses.com
     # 'Give an example of HTTP status 418, in the wild. Screenshots encouraged',  # google has one
     # 'Where did HTTP status 418 come from?',  # https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418
     'Answer with a GIF. \nWhat is HTTP status 500?',  # Internal Server Error https://httpstatuses.com
-    # 'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
+    'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
+
+    # Opinions Welcome Here
+    'What is the single best book code/programming book you\'ve read?', 
+    'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
+    'Light mode or dark mode? Why?',
+    'What\'s the best learning resource you\'ve used? Why?'',
+    'What editor or IDE do you use? Any special reason?',
+    'Answer with a GIF. \nHow are you feeling about your code, right now?',
+    'How did you get into coding/programming?',
+    'What badass ladies you are following that everyone else should follow? \nWhy? \nTag \'em',
+    'What badass dudes you are following that everyone else should follow? \nWhy? \nTag \'em',
+    'What badass trans* peeps you are following that everyone else should follow? \nWhy? \nTag \'em',
+    'What badass folks you are following that everyone else should follow? \nWhy? \nTag \'em',
+    'Do you have a portfolio? Why or why not? \nShare a link'
+    'Do you write you on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
+    'What\'s the weirdest bug you\'ve dealt with? \nTell us about it.',
     ]
