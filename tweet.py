@@ -23,7 +23,7 @@ api = tweepy.API(auth)
 
 def main():
     interval = 60 * 60 * 6  # seconds * minutes * hours
-    reply_with = 'Here\'s our question! \nStick around, we\'ll have another in 6 hours! \n\nIt may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
+    reply_with = 'Here\'s our question! \nStick around, we\'ll have another in 6 hours! \n\n🤷It may be easy, it may be hard. \nEither way, give it a tweet \nDon\'t know it? Look it up \nStill unsure? Ask'
 
     while True:
         print("finding a question...")
