@@ -18,9 +18,9 @@ QUESTIONS = [
     'Why does List, the language,  use () instead of []?',  # The keyboard used to develop had issues with the [ key
     'What does Wi-Fi stand for?',  # nothing https://www.webopedia.com/DidYouKnow/Computer_Science/wifi_explained.asp
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
-    'Whats the difference between an editor and an IDE?',  # 
+    'Whats the difference between an editor and an IDE?',  #
     'ELI5: What is the DOM?',  # https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-    'ELI5: What is debugging?',  # 
+    'ELI5: What is debugging?',  #
     'ELI5: What are the APIs?',  # https://developer.mozilla.org/en-US/docs/Web/API
     'ELI5: What is Git?',  #
     'ELI5: What is an IDE?',  #
@@ -38,10 +38,14 @@ QUESTIONS = [
     'In a tree, where is the root?',  # The top
     'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
     'Who recorded the first computer bug? What were they doing?',  # Grace Hopper recorded the first computer ‘bug’ in the book as she was working for the MARK II computer. https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/
-    'When would you use WET principles instead of DRY?',  # 
-    'When would you use DRY principles instead of WET?',  # 
-    'What is clean code? How do you make sure you code is clean?',  # 
+    'When would you use WET principles instead of DRY?',  #
+    'When would you use DRY principles instead of WET?',  #
+    'What is clean code? How do you make sure you code is clean?',  #
     'What are comments for?',  #
+    'What is a pull request?',  #
+    'What is a commit?',  #
+    'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
+    'When would using the HTML <style> tag could be useful? \ncredit @bramleylmao',  # https://webwide.io/threads/usage-of-style-tag-in-html-but-why.646/
 
     # Language Creation
     'How was the language Java invented?',  # James Gosling, at Sun Labs, around 1992; the group was building a set-top box and started by “cleaning up” C++ and wound up with a new language and runtime.
@@ -82,6 +86,7 @@ QUESTIONS = [
     'What does XML stand for? What is it?',  # Extensible Markup Language
     'What does SOLID stand for? What is it?',  # Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion https://en.wikipedia.org/wiki/SOLID
     'What does PWA stand for? What is it?',  # Progressive Web App
+    'What does WYSIWYG stand for? What is it?',  # What you see is what you get; in reference to editors
 
     # HTTP Statuses
     'Answer with a GIF. \nWhat is HTTP status 100?',  # Continue https://httpstatuses.com
@@ -110,13 +115,13 @@ QUESTIONS = [
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
 
     # Opinions Welcome Here
-    'What is the single best book code/programming book you\'ve read?', 
+    'What is the single best book code/programming book you\'ve read?',  #
     # 'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
     # 'Light mode or dark mode? Why?',
-    #'What\'s the best learning resource you\'ve used? Why?'',
-    #'What editor or IDE do you use? Any special reason?',
+    # 'What\'s the best learning resource you\'ve used? Why?'',
+    # 'What editor or IDE do you use? Any special reason?',
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
-    #'How did you get into coding/programming?',
+    # 'How did you get into coding/programming?',
     'What badass ladies you are following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass dudes you are following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass trans* peeps you are following that everyone else should follow? \nWhy? \nTag \'em',
@@ -124,9 +129,10 @@ QUESTIONS = [
     'Do you have a portfolio? Why or why not? \nShare a link'
     'Do you write you on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
     'What\'s the weirdest bug you\'ve dealt with? \nTell us about it.',
+    'What\'s your go to framework? Why?',
     'What was your latest win?',
-    #'What do you need help with? \nor \nWhat can you help someone with?',
+    # 'What do you need help with? \nor \nWhat can you help someone with?',
     'What are your goals for the next few days?',
     'Do you work with Open Source? What project(s)?',
-    #'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
+    # 'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     ]
