@@ -122,9 +122,9 @@ QUESTIONS = [
     # 'What editor or IDE do you use? Any special reason?',
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
     # 'How did you get into coding/programming?',
-    'What badass ladies you are following that everyone else should follow? \nWhy? \nTag \'em',
-    'What badass dudes you are following that everyone else should follow? \nWhy? \nTag \'em',
-    'What badass trans* peeps you are following that everyone else should follow? \nWhy? \nTag \'em',
+    # 'What badass ladies you are following that everyone else should follow? \nWhy? \nTag \'em',
+    # 'What badass dudes you are following that everyone else should follow? \nWhy? \nTag \'em',
+    # 'What badass trans* peeps you are following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass folks you are following that everyone else should follow? \nWhy? \nTag \'em',
     'Do you have a portfolio? Why or why not? \nShare a link'
     'Do you write you on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
