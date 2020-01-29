@@ -1,4 +1,12 @@
-# Twitter Bot built with Python & Tweepy
+# Twitter Bot [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  & Tweepy
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/code-questions-bot/fork)
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/VickiLanger/code-questions-bot/graphs/commit-activity)
+[![open issues](https://img.shields.io/github/issues/VickiLanger/code-questions-bot.svg)](https://github.com/VickiLanger/code-questions-bot/issues?q=is%3Aopen+is%3Aissue)
+[![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/code-questions-bot.svg)](https://github.com/VickiLanger/code-questions-bot/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/code-questions-bot.svg)](https://GitHub.com/VickiLanger/code-questions-bot/graphs/contributors/)
 
 [Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/code-questions-bot-42io)
 
