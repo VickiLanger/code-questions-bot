@@ -109,8 +109,8 @@ QUESTIONS = [
     'Answer with a GIF. \nWhat is HTTP status 404?',  # Not Found https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 417?',  # Expectation Failed https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 418?',  # I'm a teapot https://httpstatuses.com
-    # 'Give an example of HTTP status 418, in the wild. Screenshots encouraged',  # google has one
-    # 'Where did HTTP status 418 come from?',  # https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418
+    'Give an example of HTTP status 418, in the wild. Screenshots encouraged',  # google has one
+    'Where did HTTP status 418 come from?',  # https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418
     'Answer with a GIF. \nWhat is HTTP status 500?',  # Internal Server Error https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
