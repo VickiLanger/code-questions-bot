@@ -18,20 +18,8 @@ QUESTIONS = [
     'Why does List, the language,  use () instead of []?',  # The keyboard used to develop had issues with the [ key
     'What does Wi-Fi stand for?',  # nothing https://www.webopedia.com/DidYouKnow/Computer_Science/wifi_explained.asp
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
-    'Whats the difference between an editor and an IDE?',  #
     'ELI5: What is the DOM?',  # https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-    'ELI5: What is debugging?',  #
     'ELI5: What are the APIs?',  # https://developer.mozilla.org/en-US/docs/Web/API
-    'ELI5: What is Git?',  #
-    'ELI5: What is an IDE?',  #
-    'ELI5: "=" != "==" != "==="',  #
-    'ELI5: What is cookies?',  #
-    'ELI5: What is cache?',  #
-    'What is Alan Turing known for?',  #
-    'What is Open Source Software (OSS)?',  #
-    'What does it mean to be "Turing complete"?',  #
-    'What is an instance and what does it mean to instantiate?',  #
-    'What is the difference between high-level and low-level languages?',  #
     'What was the first song ever sung by a computer?',  # "Daisy Bell" was composed by Harry Dacre in 1892. In 1961, the IBM 7094 became the first computer to sing, singing the song Daisy Bell
     'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
     'What is the name of the Java mascot?',  # Duke
@@ -40,13 +28,28 @@ QUESTIONS = [
     'In a tree, where is the root?',  # The top
     'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
     'Who recorded the first computer bug? What were they doing?',  # Grace Hopper recorded the first computer ‘bug’ in the book as she was working for the MARK II computer. https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/
-    'When would you use WET principles instead of DRY?',  #
-    'When would you use DRY principles instead of WET?',  #
-    'What is clean code? How do you make sure you code is clean?',  #
+    'What is a commit?',  #
+    'ELI5: What is Git?',  #
+    'ELI5: What is cache?',  #
+    'ELI5: What is an IDE?',  #
+    'What is a code smell?',  #
+    'ELI5: What is cookies?',  #
     'What are comments for?',  #
     'What is a pull request?',  #
-    'What is a commit?',  #
-    'What is a code smell?',  #
+    'ELI5: What is debugging?',  #
+    'ELI5: "=" != "==" != "==="',  #
+    'What is Alan Turing known for?',  #
+    'What is Open Source Software (OSS)?',  #
+    'What does it mean to be "Turing complete"?',  #
+    'What day is celebrated as Programmer\'s day? Why?',  #
+    'When would you use WET principles instead of DRY?',  #
+    'When would you use DRY principles instead of WET?',  #
+    'Whats the difference between an editor and an IDE?',  #
+    'What is the difference between a <div> and a <span>?',  #
+    'What is the difference between a "grid" and a "flexbox"',  #
+    'What is an instance and what does it mean to instantiate?',  #
+    'What is clean code? How do you make sure you code is clean?',  #
+    'What is the difference between high-level and low-level languages?',  #
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'When would using the HTML <style> tag could be useful? \ncredit @bramleylmao',  # https://webwide.io/threads/usage-of-style-tag-in-html-but-why.646/
     'What does "++++++++++[>+++++++>++++++++++>+++>+<<<<-] >++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>." mean? What language is it in?,  # Hello World, Brainfuck
@@ -58,9 +61,16 @@ QUESTIONS = [
     'What are the three syntax elements of the language created for orangutans?',  # Ook. Ook! Ook?
     'What language is made of only spaces, tabs and newlines?',  # Whitespace
     'How would you print "Hello World" in LOLCODE',  # https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md
-    'What day is celebrated as Programmer\'s day? Why?',  # 
+    'What was the first mouse made of?',  # wood
+    'Who invented the Internet?',  # @timberners_lee Tim Burner Lee
+    # 'In the 1930s, an analog computer, that used water  was built that used water',  # https://en.wikipedia.org/wiki/Water_integrator
+    'Where did they source or get the parts for the first Apple computer?',  # made using old parts they collected from their staff for free
+    'What does CAPTCHA stand for? \nBonus Points: Share a ridiculous CAPTCHA pic',  # Completely Automated Public Turing test to tell Computers and Humans Apart
+    'What happens when you try to `import braces` in Python?',  # SyntaxError: not a chance
+    'Emojis. Recipes. Music notes. LOLCATS. \nWhich of these is used to create a programming language?',  # All of the above
 
     # Language Creation
+    'What languages influenced the design of JavaScript?',  # AWK, C, HyperTalk, Java, Lua, Perl, Python, Scheme, and Self
     'How was the language Java invented?',  # James Gosling, at Sun Labs, around 1992; the group was building a set-top box and started by “cleaning up” C++ and wound up with a new language and runtime.
     'What was PHP initially created for?',  # Lerdorf had created the language, or interface at the time, for the purpose of managing his personal website.
     'What was Java initally design for?',  # Java was designed with the primary aim for use in Interactive television
