@@ -52,7 +52,7 @@ QUESTIONS = [
     'What is the difference between high-level and low-level languages?',  #
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'When would using the HTML <style> tag could be useful? \ncredit @bramleylmao',  # https://webwide.io/threads/usage-of-style-tag-in-html-but-why.646/
-    'What does "++++++++++[>+++++++>++++++++++>+++>+<<<<-] >++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>." mean? What language is it in?,  # Hello World, Brainfuck
+    'What does "++++++++++[>+++++++>++++++++++>+++>+<<<<-] >++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>." mean? What language is it in?',  # Hello World, Brainfuck
     'There is a language written with no letters , no numbers just 8 characters : > < + - . , [ ] \nWhat is it?',  # Brainfuckhttps://docs.google.com/document/d/1M51AYmDR1Q9UBsoTrGysvuzar2_Hx69Hz14tsQXWV6M/edit
     'What percentage of programming jobs are in industries outside of tech?',  # Currently around 70%
     'What languages are used to creat a website?',  # HTML, CSS, JavaScript
