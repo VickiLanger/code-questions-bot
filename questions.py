@@ -41,6 +41,7 @@ QUESTIONS = [
     'What is Alan Turing known for?',  #
     'What is Open Source Software (OSS)?',  #
     'What does it mean to be "Turing complete"?',  #
+    'What is the difference between merge and rebase',  #
     'What day is celebrated as Programmer\'s day? Why?',  #
     'When would you use WET principles instead of DRY?',  #
     'When would you use DRY principles instead of WET?',  #
