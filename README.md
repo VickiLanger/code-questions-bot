@@ -16,6 +16,8 @@ If you would like to contribute, feel free to make a pull request.
 
 First time? I suggest starting with adding a question to questions.py. Check out [issue #5](https://github.com/VickiLanger/code-questions-bot/issues/5) for more details.
 
+If you need more of a step-by-step, skim through [this article about making your first contribution](https://dev.to/vickilanger/open-up-to-open-source-contributing-5hla).
+
 ### Who Has Contibuted?
 All contributions are greatly appreciated. 
 
