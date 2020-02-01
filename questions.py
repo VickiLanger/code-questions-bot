@@ -142,7 +142,7 @@ QUESTIONS = [
     'What is the single best book code/programming book you\'ve read?',  #
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
     'Light mode or dark mode? Why?',
-    'What\'s the best learning resource you\'ve used? Why?'',
+    'What\'s the best learning resource you\'ve used? Why?',
     'What editor or IDE do you use? Any special reason?',
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
     'How did you get into coding/programming?',
