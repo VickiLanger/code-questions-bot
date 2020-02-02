@@ -30,11 +30,13 @@ QUESTIONS = [
     'Who recorded the first computer bug? What were they doing?',  # Grace Hopper recorded the first computer ‘bug’ in the book as she was working for the MARK II computer. https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/
     'What is a commit?',  #
     'ELI5: What is Git?',  #
+    'What is recursion?',  #
     'ELI5: What is cache?',  #
     'ELI5: What is an IDE?',  #
     'What is a code smell?',  #
     'ELI5: What is cookies?',  #
     'What are comments for?',  #
+    'What is the "black box?',  #
     'What is a pull request?',  #
     'ELI5: What is debugging?',  #
     'ELI5: "=" != "==" != "==="',  #
@@ -47,10 +49,14 @@ QUESTIONS = [
     'When would you use WET principles instead of DRY?',  #
     'When would you use DRY principles instead of WET?',  #
     'Whats the difference between an editor and an IDE?',  #
+    'What is the difference between Java and JavaScript?',  #
     'What is the difference between a <div> and a <span>?',  #
+    'What is the difference between a framework and library?',  #
     'What is the difference between a "grid" and a "flexbox"',  #
+    'What\'s the difference between a web app and a website?,'  #
     'What is an instance and what does it mean to instantiate?',  #
     'What is clean code? How do you make sure you code is clean?',  #
+    'What is the difference between computer science and programming?',  #
     'What is the difference between high-level and low-level languages?',  #
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'When would using the HTML <style> tag could be useful? \ncredit @bramleylmao',  # https://webwide.io/threads/usage-of-style-tag-in-html-but-why.646/
@@ -65,7 +71,6 @@ QUESTIONS = [
     'How would you print "Hello World" in LOLCODE',  # https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md
     'What was the first mouse made of?',  # wood
     'Who invented the Internet?',  # @timberners_lee Tim Burner Lee
-    # 'In the 1930s, an analog computer, that used water  was built that used water',  # https://en.wikipedia.org/wiki/Water_integrator
     'Where did they source or get the parts for the first Apple computer?',  # made using old parts they collected from their staff for free
     'What does CAPTCHA stand for? \nBonus Points: Share a ridiculous CAPTCHA pic',  # Completely Automated Public Turing test to tell Computers and Humans Apart
     'What happens when you try to `import braces` in Python?',  # SyntaxError: not a chance
