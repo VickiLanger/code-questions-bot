@@ -40,6 +40,7 @@ QUESTIONS = [
     'ELI5: "=" != "==" != "==="',  #
     'What is Alan Turing known for?',  #
     'What is Open Source Software (OSS)?',  #
+    'ELI5: What is Regular Expression (RegEx)?',  #
     'What does it mean to be "Turing complete"?',  #
     'What is the difference between merge and rebase',  #
     'What day is celebrated as Programmer\'s day? Why?',  #
