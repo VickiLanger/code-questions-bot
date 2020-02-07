@@ -231,7 +231,7 @@ QUESTIONS = [
     'What editor or IDE do you use? Any special reason?',
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
     'How did you get into coding/programming?',
-    'What was something that was really hard for you to understand, but isn\'t so bad now?,
+    'What was something that was really hard for you to understand, but isn\'t so bad now?',
     'What badass ladies are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass dudes are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass trans* peeps are you following that everyone else should follow? \nWhy? \nTag \'em \nnote: do not out someone who isn't out',
