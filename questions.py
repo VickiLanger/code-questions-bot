@@ -9,6 +9,7 @@ Vicki Langer (@vicki_langer)
 
 QUESTIONS = [
     'What questions would you like us to ask? Or what kinds of questions would you like to see?',  # Open-ended, no right answer
+    'It would be cool if @CodeQBot could _______________________ \nfill in the blank',  # Open-ended, no right answer
     'Who has been called the worlds first computer programmer?',  # Ada Lovelace
     'Who popularized the idea of machine-independent programming languages?',  # Grace Hopper
     'What is "!" used for in "!=" ?',  # Not
@@ -31,15 +32,22 @@ QUESTIONS = [
     'What is a commit?',  #
     'ELI5: What is Git?',  #
     'What is recursion?',  #
+    'What is a viewport?',  #
+    'What is a component?',  #
     'ELI5: What is cache?',  #
     'ELI5: What is an IDE?',  #
     'What is a code smell?',  #
     'ELI5: What is cookies?',  #
     'What are comments for?',  #
-    'What is the "black box?"',  #
     'What is a pull request?',  #
+    'What is the "black box?"',  #
     'ELI5: What is debugging?',  #
     'ELI5: "=" != "==" != "==="',  #
+    'What does back end refer to?',  #
+    'What does database refer to?',  #
+    'How do you name git branches?',  #
+    'What is JSON? What is it for?',  #
+    'What does front end refer to?',  #
     'What is Alan Turing known for?',  #
     'What is Open Source Software (OSS)?',  #
     'ELI5: What is Regular Expression (RegEx)?',  #
@@ -54,9 +62,15 @@ QUESTIONS = [
     'What is the difference between a framework and library?',  #
     'What is the difference between a "grid" and a "flexbox"',  #
     'What\'s the difference between a web app and a website?,'  #
+    'In CSS, what\'s the difference between flexbox and grid?',  #
+    'What can back end devs do to make things more accessible?',  #
+    'What can database devs do to make things more accessible?',  #
     'What is an instance and what does it mean to instantiate?',  #
+    'What can front end devs do to make things more accessible?',  #
+    'In CSS, what\'s the difference between a grid and a table?',  #
     'What is clean code? How do you make sure you code is clean?',  #
     'What is the difference between computer science and programming?',  #
+    'What is the difference between front end, back end, and database?',  #
     'What is the difference between high-level and low-level languages?',  #
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'When would using the HTML <style> tag could be useful? \ncredit @bramleylmao',  # https://webwide.io/threads/usage-of-style-tag-in-html-but-why.646/
@@ -75,6 +89,39 @@ QUESTIONS = [
     'What does CAPTCHA stand for? \nBonus Points: Share a ridiculous CAPTCHA pic',  # Completely Automated Public Turing test to tell Computers and Humans Apart
     'What happens when you try to `import braces` in Python?',  # SyntaxError: not a chance
     'Emojis. Recipes. Music notes. LOLCATS. \nWhich of these is used to create a programming language?',  # All of the above
+    'What should be in your git commit messages? What should not?',  # why you made a change
+    'What is the purpose of testing code?',  #
+    'How should I make a list without bullets?',  #
+    'How do you conect the front end with the back end?',  #
+    'What is a headless CMS? Why would I need this?',  # https://dev.to/defman/whats-headless-cms-2fek
+    'What is recursion?',  # https://dev.to/rahatch/chocolate-chip-cookies-and-recursion-566k
+    'What is a font-family and why would it have a fallback?\nShould it have a fallback?',  #
+    'What are @keyframes for?',  # specifies the animation code
+    'What is a z-index?',  # specifies the stack order of an element
+    'Why would you use @media queries?',  # https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+    'In CSS, what is @import used for and why would you use it?',  # allows you to import a style sheet into another style sheet
+    'In CSS, what is @charset used for and why would you use it?',  # specifies the character encoding used in the style sheet
+    'What is a computer?',  #
+    'What is a compiler? Why would one use it?',  #
+    'What is blockchain? Why would one use it?',  #
+    'What are cron jobs? What are they for?',  #
+    'What are Service Workers? What are they for?',  #
+    'What is an dev environment?',  #
+    'What are containers?',  # https://dev.to/ashleemboyer/explain-containers-like-i-m-five-4cbo
+    'What are closures?',  # https://dev.to/rahatch/learning-closures-with-pokemon-teams-4109
+    'What is documentation? \nIs it important? \nWhy?',
+
+    # on the job stuff?
+    'What is a code review?',  #
+    'What is pair programming?',  #
+
+    # Job Titles
+    'What is a developer advocate?',  # https://dev.to/simo97/what-is-a-developer-advocate--1jei
+    'What is a developer?',  #
+    'What is a software engineer?',  #
+    'What is a full stack developer?',  #
+    'What is the difference between a software engineer and a developer?',  #
+    'What is the difference between a software engineer and a software architecht?',  #
 
     # Language Creation
     'What languages influenced the design of JavaScript?',  # AWK, C, HyperTalk, Java, Lua, Perl, Python, Scheme, and Self
@@ -117,6 +164,11 @@ QUESTIONS = [
     'What does SOLID stand for? What is it?',  # Single responsibility, Open–closed, Liskov substitution, Interface segregation, Dependency inversion https://en.wikipedia.org/wiki/SOLID
     'What does PWA stand for? What is it?',  # Progressive Web App
     'What does WYSIWYG stand for? What is it?',  # What you see is what you get; in reference to editors
+    'What does CMS stand for? What is it?',  # Content Management System (like wordpress and many many others)
+    'What does TLD stand for? What is it?',  # Top Level Domain
+    'What does XML stand for? What is it?',  #
+    'What does SVG stand for? What is it?',  #
+    'What does JSON stand for? What is it?',  #
 
     # HTTP Statuses
     'Answer with a GIF. \nWhat is HTTP status 100?',  # Continue https://httpstatuses.com
@@ -145,7 +197,7 @@ QUESTIONS = [
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
 
     # Opinions Welcome Here
-    'What is the single best code/programming book you\'ve read?',  #
+    'What is the single best code/programming book you\'ve read?',
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
     'Light mode or dark mode? Why?',
     'What\'s the best learning resource you\'ve used? Why?',
@@ -154,9 +206,9 @@ QUESTIONS = [
     'How did you get into coding/programming?',
     'What badass ladies are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass dudes are you following that everyone else should follow? \nWhy? \nTag \'em',
-    # 'What badass trans* peeps are you following that everyone else should follow? \nWhy? \nTag \'em',
+    # 'What badass trans* peeps are you following that everyone else should follow? \nWhy? \nTag \'em \nnote: do not out someone who isn't out',
     # 'What badass POC are you following that everyone else should follow? \nWhy? \nTag \'em',
-    # 'What badass underrepresented are you following that everyone else should follow? \nWhy? \nTag \'em',
+    # 'What badass underrepresented peeps are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass folks you are following that everyone else should follow? \nWhy? \nTag \'em',
     'Do you have a portfolio? Why or why not? \nShare a link'
     'Do you write on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
@@ -165,7 +217,8 @@ QUESTIONS = [
     'What was your latest win?',
     # 'What do you need help with? \nor \nWhat can you help someone with?',
     'What are your goals for the next few days?',
-    '🤔 As simple as possible, describe what you do professionally?',
+    'What\'s your browser of choice? Why?',
+    'Explain to a 5-year-old, what do you do for work?',
     'Do you work with Open Source? What project(s)?',
     # 'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     ]
