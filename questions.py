@@ -36,7 +36,7 @@ QUESTIONS = [
     'What is a code smell?',  #
     'ELI5: What is cookies?',  #
     'What are comments for?',  #
-    'What is the "black box?',  #
+    'What is the "black box?"',  #
     'What is a pull request?',  #
     'ELI5: What is debugging?',  #
     'ELI5: "=" != "==" != "==="',  #
