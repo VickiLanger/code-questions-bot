@@ -40,6 +40,7 @@ QUESTIONS = [
     'ELI5: What is cookies?',  #
     'What are comments for?',  #
     'What is a pull request?',  #
+    'ELI5: What is the cloud?',  #
     'What is the "black box?"',  #
     'ELI5: What is debugging?',  #
     'ELI5: "=" != "==" != "==="',  #
@@ -50,6 +51,7 @@ QUESTIONS = [
     'What does front end refer to?',  #
     'What is Alan Turing known for?',  #
     'What is Open Source Software (OSS)?',  #
+    'What is pseudocode? Why would you use it',  #
     'ELI5: What is Regular Expression (RegEx)?',  #
     'What does it mean to be "Turing complete"?',  #
     'What is the difference between merge and rebase',  #
@@ -72,6 +74,7 @@ QUESTIONS = [
     'What is the difference between computer science and programming?',  #
     'What is the difference between front end, back end, and database?',  #
     'What is the difference between high-level and low-level languages?',  #
+    'Who are the "Big 4" Would you work for them?',  # some combination of Google, Microsoft, Facebook, Amazon, and Apple
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'When would using the HTML <style> tag could be useful? \ncredit @bramleylmao',  # https://webwide.io/threads/usage-of-style-tag-in-html-but-why.646/
     'What does "++++++++++[>+++++++>++++++++++>+++>+<<<<-] >++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>." mean? What language is it in?',  # Hello World, Brainfuck
@@ -102,18 +105,33 @@ QUESTIONS = [
     'In CSS, what is @import used for and why would you use it?',  # allows you to import a style sheet into another style sheet
     'In CSS, what is @charset used for and why would you use it?',  # specifies the character encoding used in the style sheet
     'What is a computer?',  #
+    'What is a dev environment?',  #
+    'What are cron jobs? What are they for?',  #
     'What is a compiler? Why would one use it?',  #
     'What is blockchain? Why would one use it?',  #
-    'What are cron jobs? What are they for?',  #
     'What are Service Workers? What are they for?',  #
-    'What is an dev environment?',  #
     'What are containers?',  # https://dev.to/ashleemboyer/explain-containers-like-i-m-five-4cbo
     'What are closures?',  # https://dev.to/rahatch/learning-closures-with-pokemon-teams-4109
     'What is documentation? \nIs it important? \nWhy?',
+    'Should a button communicate the current state, the intended behavior, or both?',  # https://dev.to/ben/should-a-button-communicate-the-current-state-the-intended-behavior-or-both-50na
+    'What is nesting',  #
+    'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
+    '',  #
+    '',  #
+    '',  #
+    '',  #
+    '',  #
+    '',  #
+    '',  #
+    '',  #
+    '',  #
+    '',  #
 
     # on the job stuff?
     'What is a code review?',  #
     'What is pair programming?',  #
+    'What is Agile?',  #
+    'What is scrum?',  #
 
     # Job Titles
     'What is a developer advocate?',  # https://dev.to/simo97/what-is-a-developer-advocate--1jei
@@ -122,6 +140,7 @@ QUESTIONS = [
     'What is a full stack developer?',  #
     'What is the difference between a software engineer and a developer?',  #
     'What is the difference between a software engineer and a software architecht?',  #
+    'What is DevOps?',  #
 
     # Language Creation
     'What languages influenced the design of JavaScript?',  # AWK, C, HyperTalk, Java, Lua, Perl, Python, Scheme, and Self
@@ -145,6 +164,7 @@ QUESTIONS = [
     'What does CRUD stand for? When would you use it?',  # Create Read Update Delete
     'What does API stand for? What is it?',  # Application Program Interface
     'What does ASCII stand for? What is it?',  # American Standard Code For Information Interchange
+    'What does TCP stand for? What is it?',  # Transmission Control Protocol https://dev.to/ben/explain-tcp-like-im-five
     'What does A11Y stand for? What is it?',  # Accessibility
     'What does BLOB stand for? What is it?',  # Binary Large Object
     'What does 2FA stand for? What is it?',  # 2 factor Auth
@@ -196,14 +216,22 @@ QUESTIONS = [
     'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
 
+    # Ergonomics
+    'In terms of ergonomics, what angle should your screen be at?',  # 20degrees
+    'In terms of ergonomics, what angle should your elbows be at?',  # 90 degrees
+    'In terms of ergonomics, how far away from your screen should you be?',  #
+
     # Opinions Welcome Here
+    'How important are math skills for software development?',  # inspired by https://dev.to/ben/how-important-are-math-skills-for-software-development-347n
     'What is the single best code/programming book you\'ve read?',
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
     'Light mode or dark mode? Why?',
+    'What does your editor/IDE look like?',  # inspired by https://dev.to/emmabostian/what-does-your-ide-code-editor-look-like-550e
     'What\'s the best learning resource you\'ve used? Why?',
     'What editor or IDE do you use? Any special reason?',
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
     'How did you get into coding/programming?',
+    'What was something that was really hard for you to understand, but isn\'t so bad now?,
     'What badass ladies are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass dudes are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass trans* peeps are you following that everyone else should follow? \nWhy? \nTag \'em \nnote: do not out someone who isn't out',
@@ -218,7 +246,9 @@ QUESTIONS = [
     # 'What do you need help with? \nor \nWhat can you help someone with?',
     'What are your goals for the next few days?',
     'What\'s your browser of choice? Why?',
+    'Describe you job with just a GIF!',
     'Explain to a 5-year-old, what do you do for work?',
+    'In emojis, what do you do for work?',
     'Do you work with Open Source? What project(s)?',
     # 'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     ]
