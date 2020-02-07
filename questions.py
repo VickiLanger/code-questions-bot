@@ -145,7 +145,7 @@ QUESTIONS = [
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
 
     # Opinions Welcome Here
-    'What is the single best book code/programming book you\'ve read?',  #
+    'What is the single best code/programming book you\'ve read?',  #
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
     'Light mode or dark mode? Why?',
     'What\'s the best learning resource you\'ve used? Why?',
