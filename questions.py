@@ -81,7 +81,7 @@ QUESTIONS = [
     'There is a language written with no letters , no numbers just 8 characters : > < + - . , [ ] \nWhat is it?',  # Brainfuckhttps://docs.google.com/document/d/1M51AYmDR1Q9UBsoTrGysvuzar2_Hx69Hz14tsQXWV6M/edit
     'What percentage of programming jobs are in industries outside of tech?',  # Currently around 70%
     'What languages are used to creat a website?',  # HTML, CSS, JavaScript
-    'In JavaScript used for front end or back end?',  # Both
+    'Is JavaScript used for front end or back end?',  # Both
     'What language was created for orangutans?',  # Ook
     'What are the three syntax elements of the language created for orangutans?',  # Ook. Ook! Ook?
     'What language is made of only spaces, tabs and newlines?',  # Whitespace
