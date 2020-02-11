@@ -14,6 +14,8 @@ personal_questions = [
     'What is the single best code/programming book you\'ve read?',
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
     'Light mode or dark mode? Why?',
+    'What are the tools you couldn\'t work without?',
+    'What does your desk or workspace look like today? \nbonus points for pics',
     'What does your editor/IDE look like?',  # inspired by https://dev.to/emmabostian/what-does-your-ide-code-editor-look-like-550e
     'What\'s the best learning resource you\'ve used? Why?',
     'What editor or IDE do you use? Any special reason?',
