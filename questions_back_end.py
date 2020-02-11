@@ -8,6 +8,8 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 back_end_questions = [
+    'What does it mean to concatenate?',
+    'What does it mean to loop?',
     'What happens when you try to `import braces` in Python?',  # SyntaxError: not a chance
     'Emojis. Recipes. Music notes. LOLCATS. \nWhich of these is used to create a programming language?',  # All of the above
     'What is "!" used for in "!=" ?',  # Not
