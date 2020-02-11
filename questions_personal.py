@@ -23,7 +23,7 @@ personal_questions = [
     'What badass women are you following that everyone else should follow? \nWhy? \nTag \'em',  # includes anyone cis, trans*, femme presenting, not femme presenting
     # 'What badass ladies are you following that everyone else should follow? \nWhy? \nTag \'em',  # includes anyone cis, trans*, femme presenting, not femme presenting
     'What badass LGBTQIA allies are you following that everyone else should follow? \nWhy? \nTag \'em',
-    'What badass queer/LGBTQIA peeps are you following that everyone else should follow? \nWhy? \nTag \'em \nnote: do not out someone who isn't out',
+    'What badass queer/LGBTQIA peeps are you following that everyone else should follow? \nWhy? \nTag \'em \nnote: do not out someone who isn\'t out',
     'What badass Lantinx folks are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass Black folks are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass Indigenous folks are you following that everyone else should follow? \nWhy? \nTag \'em',
