@@ -31,7 +31,7 @@ personal_questions = [
     'What badass Indigenous folks are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass underrepresented peeps are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass folks are you following that everyone else should follow? \nWhy? \nTag \'em',
-    'Do you have a portfolio? Why or why not? \nShare a link'
+    'Do you have a portfolio? Why or why not? \nShare a link\n👇🏼👇🏾👇🏽👇🏿👇🏻'
     'Do you write on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
     'What\'s the weirdest bug you\'ve dealt with? \nTell us about it.',
     'What\'s your go to framework? Why?',
