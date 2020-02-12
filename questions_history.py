@@ -18,7 +18,7 @@ history_questions = [
     'What was Java called before it was Java? \nextra points: why was it changed?',  # Oak. Thename was ruled out by Sun's trademark lawyers since the name was used by the company Oak Technologies
     'What programming language did Bjarne Stroustrup create?',  # C++
     'Where did the language "Python" get it\'s name?',  # creator liked the movie Monty Python
-    'What is Alan Turing known for?',  #
+    'What is Alan Turing known for?',  # One of the founders of computer science as we know it.
     'What was the first mouse made of?',  # wood
     'Who invented the Internet?',  # @timberners_lee Tim Burner Lee
     'Where did they source or get the parts for the first Apple computer?',  # made using old parts they collected from their staff for free
