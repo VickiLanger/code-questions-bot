@@ -36,7 +36,7 @@ acronym_questions = [
     'What does WYSIWYG stand for? What is it?',  # What you see is what you get; in reference to editors
     'What does CMS stand for? What is it?',  # Content Management System (like wordpress and many many others)
     'What does TLD stand for? What is it?',  # Top Level Domain
-    'What does XML stand for? What is it?',  #
-    'What does SVG stand for? What is it?',  #
-    'What does JSON stand for? What is it?',  #
+    'What does XML stand for? What is it?',  # Extensible Markup Language, a markup language similar to HTML used for APIs (largely replaced by JSON)
+    'What does SVG stand for? What is it?',  # Scalable Vector Graphics, an XML based way of rendering 2D graphics.
+    'What does JSON stand for? What is it?',  # JavaScript Object Notation, a machine readable format for transporting data between computer programs.
     ]
