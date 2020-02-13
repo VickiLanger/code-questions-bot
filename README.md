@@ -24,6 +24,7 @@ All contributions are greatly appreciated.
 |Name|Contribution|GitHub|Twitter|
 |--|--|--|--|
 | Vicki Langer | the creator | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
+| Yechiel Kalmenson | Added answers and questions | https://github.com/achasveachas | https://twitter.com/yechielk |
 | Your Name | Landing page/typos | GitHub link | twitter link|
 | Your Name | Added Questions | GitHub link | twitter link|
 
