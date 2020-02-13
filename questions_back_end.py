@@ -12,11 +12,13 @@ back_end_questions = [
     'What is a method',  #
     'What is a module?',  #
     'What is a function?',  #
+    'What is a codebase?',  #
     'What are data types?',  #
     'What are data structures?',  #
     'What are lambda functions?',  #
     'What does it mean to loop?',  #
     'What is a dev environment?',  #
+    'What does it mean to refactor?',  #
     'What is an attribute of a class?',  #
     'What does it mean to concatenate?',  #
     'What is exception handling? Why use it?',  #
@@ -45,7 +47,7 @@ back_end_questions = [
     'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
 
     # Real life examples
-    'What is a real life example of "#"?',  #
+    'What is a real life example of "exception handling"?',  # 
     'What is a real life example of "logical operators"?',  # if raining and dog_is_napping: skip_playing_ball
     'What is a real life example of "conditionals"?',  # if nice_outside: play_ball_with_dog
     'What is a real life example of a "function"?',  # run: pick up right for, pick up left foot, propel forward, repeat
