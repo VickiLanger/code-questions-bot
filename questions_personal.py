@@ -22,6 +22,7 @@ personal_questions = [
     'Answer with a GIF. \nHow are you feeling about your code, right now?',
     'How did you get into coding/programming?',
     'What was something that was really hard for you to understand, but isn\'t so bad now?',
+    'What awesome humans are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass women are you following that everyone else should follow? \nWhy? \nTag \'em',  # includes anyone cis, trans*, femme presenting, not femme presenting
     # 'What badass ladies are you following that everyone else should follow? \nWhy? \nTag \'em',  # includes anyone cis, trans*, femme presenting, not femme presenting
     'What badass LGBTQIA allies are you following that everyone else should follow? \nWhy? \nTag \'em',
@@ -31,7 +32,7 @@ personal_questions = [
     'What badass Indigenous folks are you following that everyone else should follow? \nWhy? \nTag \'em',
     # 'What badass underrepresented peeps are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass folks are you following that everyone else should follow? \nWhy? \nTag \'em',
-    'Do you have a portfolio? Why or why not? \nShare a link'
+    'Do you have a portfolio? Why or why not? \nShare a link\n👇🏼👇🏾👇🏽👇🏿👇🏻'
     'Do you write on dev.to? \nShare a link to your favorite article \n#DEVcommunity @ThePracticalDev',
     'What\'s the weirdest bug you\'ve dealt with? \nTell us about it.',
     'What\'s your go to framework? Why?',

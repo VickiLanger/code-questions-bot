@@ -11,12 +11,14 @@ back_end_questions = [
     'What is a class?',  #
     'What is a method',  #
     'What is a module?',  #
-    'What is a function?', # A grouped set of instructions that are given a name so they can be called elsewhere
+    'What is a function?',  # A grouped set of instructions that are given a name so they can be called elsewhere
+    'What is a codebase?',  #
     'What are data types?',  #
     'What are data structures?',  #
     'What are lambda functions?',  #
     'What does it mean to loop?',  # To repeat a certain set of instructions over and over (usually until some condition is met)
     'What is a dev environment?',  #
+    'What does it mean to refactor?',  #
     'What is an attribute of a class?',  #
     'What does it mean to concatenate?',  # To add two things together (strings, arrays, maps, etc.)
     'What is exception handling? Why use it?',  #
@@ -27,8 +29,8 @@ back_end_questions = [
     'When would you use WET principles instead of DRY?',  #
     'When would you use DRY principles instead of WET?',  #
     'What can back end devs do to make things more accessible?',  #
-    'What is an instance and what does it mean to instantiate?', # an instance is a single member of a class. To instantiate means to create an instance.
-    'What is the difference between a "for loop" and a "while loop"?', # For loop is for when you know how many iterations you want to loop through, while loops are for when you want to loop until a certain condtion is met.
+    'What is an instance and what does it mean to instantiate?',  # an instance is a single member of a class. To instantiate means to create an instance.
+    'What is the difference between a "for loop" and a "while loop"?',  # For loop is for when you know how many iterations you want to loop through, while loops are for when you want to loop until a certain condtion is met.
     'What are conditionals?',  # if, elif, else https://dev.to/vickilanger/charming-the-python-conditionals-4e5f
     'What are logical operators?',  # and + or https://dev.to/vickilanger/charming-the-python-conditionals-4e5f
     'Why does List, the language,  use () instead of []?',  # The keyboard used to develop had issues with the [ key
@@ -45,7 +47,7 @@ back_end_questions = [
     'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
 
     # Real life examples
-    'What is a real life example of "#"?',  #
+    'What is a real life example of "exception handling"?',  # 
     'What is a real life example of "logical operators"?',  # if raining and dog_is_napping: skip_playing_ball
     'What is a real life example of "conditionals"?',  # if nice_outside: play_ball_with_dog
     'What is a real life example of a "function"?',  # run: pick up right for, pick up left foot, propel forward, repeat
