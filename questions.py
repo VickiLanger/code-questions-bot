@@ -20,4 +20,17 @@ from questions_version_control import version_control_questions
 # TODO: add more questions
 # NOTE: please add the question, then comment the expected answer
 
-QUESTIONS = accessibility_questions + acronym_questions + back_end_questions + front_end_questions + fun_questions + http_status_questions + history_questions + http_status_questions + misc_questions + personal_questions + pop_culture_questions + version_control_questions
+QUESTIONS = (
+    accessibility_questions
+    + acronym_questions
+    + back_end_questions
+    + front_end_questions
+    + fun_questions
+    + http_status_questions
+    + history_questions
+    + http_status_questions
+    + misc_questions
+    + personal_questions
+    + pop_culture_questions
+    + version_control_questions
+    )
