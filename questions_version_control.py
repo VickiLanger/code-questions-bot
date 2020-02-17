@@ -11,8 +11,12 @@ version_control_questions = [
     'What should be in your git commit messages? What should not?',  # why you made a change
     'What is the purpose of testing code?',  #
     'What is a commit?',  #
+    'What does it mean to stage changes?',  #
+    'Why would you stage changes?',  #
     'Why would you squash commits?',  #
+    'What do it mean to rebase?',  #
     'ELI5: What is Git?',  #
+    'ELI5: What is version control?',  #
     'What is a pull request?',  #
     'How do you name git branches?',  #
     'What is the difference between merge and rebase',  #
