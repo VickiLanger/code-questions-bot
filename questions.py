@@ -7,6 +7,7 @@ Vicki Langer (@vicki_langer)
 from questions_accessibility import accessibility_questions
 from questions_acronyms import acronym_questions
 from questions_back_end import back_end_questions
+from questions_feedback import feedback_questions
 from questions_front_end import front_end_questions
 from questions_fun import fun_questions
 from questions_history import history_questions
@@ -24,6 +25,7 @@ QUESTIONS = (
     accessibility_questions
     + acronym_questions
     + back_end_questions
+    + feedback_questions
     + front_end_questions
     + fun_questions
     + http_status_questions
