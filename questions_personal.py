@@ -8,8 +8,6 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 personal_questions = [
-    'What questions would you like us to ask? Or what kinds of questions would you like to see?',  # Open-ended, no right answer
-    'It would be cool if @CodeQBot could _______________________ \nfill in the blank',  # Open-ended, no right answer
     'How important are math skills for software development?',  # inspired by https://dev.to/ben/how-important-are-math-skills-for-software-development-347n
     'What is the single best code/programming book you\'ve read?',
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
