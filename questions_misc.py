@@ -26,6 +26,7 @@ misc_questions = [
     'ELI5: "=" != "==" != "==="',  #
     'What does back end refer to?',  #
     'What does database refer to?',  #
+    'What is a global variable?',  #
     'What is JSON? What is it for?',  #
     'What does front end refer to?',  #
     'What is Open Source Software (OSS)?',  #
