@@ -13,5 +13,5 @@ pop_culture_questions = [
     'In "Doctor Who" Season 7 Episode 2, what code is guiding the missiles?\n@bbcdoctorwho @DrWhoOnline',  # In Doctor Who S07E02, missiles are being guided by the power of SVGs.
     'In "Silicon Valley" Season 3 Episode 1, what language is being used?\n@SiliconHBO',  # https://www.reddit.com/r/SiliconValleyHBO/comments/4gbra7/i_got_the_silicon_valley_s03e01_code_to_compile/)
     'What day is celebrated as Programmer\'s day? Why?\n#ProgrammersDay',  #
-    #'something... \n@HaltAMC #HaltandCatchFire',  #
+    # 'something... \n@HaltAMC #HaltandCatchFire',  #
     ]
