@@ -5,7 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more questions
-# NOTE: please add the question, then comment the expected answer
+# NOTE: emojis and fun welcome; seriousness will be banned
 
 fun_questions = [
     'Wrong answers only!\nWhat is HTML?\n👇🏼👇🏾👇🏿👇🏻👇🏽',

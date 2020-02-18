@@ -5,7 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 # TODO: add more questions
-# NOTE: please add the question, then comment the expected answer
+# NOTE: ask only things that could imporve user experience (ux)
 
 feedback_questions = [
     'What questions would you like us to ask? Or what kinds of questions would you like to see?',
