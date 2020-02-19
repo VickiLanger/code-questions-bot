@@ -20,4 +20,5 @@ fun_questions = [
     'Wrong answers only!\nWhat is a CSS?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
     'Fill in the blanks:\nRoses are red 🌹\nViolets are blue\n________________\n________________',
     'Haiku time! Give us your best coding haiku\nreminder: 3 lines, 5-7-5 \n\ninspired by @bendhalpern https://dev.to/ben/give-me-your-best-programming-haiku-54db',
+    'What\'s your best code joke? \n\ninspired by @joshbuchea https://twitter.com/joshbuchea/status/1223310908090249216?s=20',
     ]
