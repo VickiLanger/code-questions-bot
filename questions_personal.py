@@ -8,6 +8,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: opinions welcome here
 
 personal_questions = [
+    'What "wrong" development things did you do for a really long time without realizing? \ninspired by @laurieontech',  # inspired by https://twitter.com/laurieontech/status/1230119484146450432?s=20
     '🧮 How important are math skills for software development?',  # inspired by https://dev.to/ben/how-important-are-math-skills-for-software-development-347n
     '📚 What is the single best code/programming book you\'ve read?',
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
