@@ -31,7 +31,7 @@ back_end_questions = [
     'What can back end devs do to make things more accessible?',  #
     'What is an instance and what does it mean to instantiate?',  # an instance is a single member of a class. To instantiate means to create an instance.
     'What is the difference between a "for loop" and a "while loop"?',  # For loop is for when you know how many iterations you want to loop through, while loops are for when you want to loop until a certain condtion is met.
-    'What are conditionals?',  # if, elif, else https://dev.to/vickilanger/charming-the-python-conditionals-4e5f
+    'What are conditionals?',  # different for different languages; for python: if, elif, else https://dev.to/vickilanger/charming-the-python-conditionals-4e5f
     'What are logical operators?',  # and + or https://dev.to/vickilanger/charming-the-python-conditionals-4e5f
     'Why does List, the language,  use () instead of []?',  # The keyboard used to develop had issues with the [ key
     'What does "++++++++++[>+++++++>++++++++++>+++>+<<<<-] >++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>." mean? What language is it in?',  # Hello World, Brainfuck
@@ -45,6 +45,8 @@ back_end_questions = [
     'What is "!" used for in "!=" ?',  # Not
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
     'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
+    'What is the difference between "while loop" and "do-while loop"? \ncredit @in_skyacademy',  #
+    'What is the difference between "for loop" and "while loop"?',  #
 
     # Real life examples
     'What is a real life example of "exception handling"?',  # 
