@@ -16,7 +16,7 @@ misc_questions = [
     'In a tree, where is the root?',  # The top
     'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
     'ELI5: What is cache?',  #
-    'ELI5: What is an IDE?',  #
+    #'ELI5: What is an IDE?',  #
     'What is a code smell?',  #
     'ELI5: What is cookies?',  #
     'What are comments for?',  #
@@ -31,7 +31,7 @@ misc_questions = [
     'What does front end refer to?',  #
     'What is Open Source Software (OSS)?',  #
     'What is pseudocode? Why would you use it',  #
-    'Whats the difference between an editor and an IDE?',  #
+    #'Whats the difference between an editor and an IDE?',  #
     'What is the difference between Java and JavaScript?',  #
     'What is the difference between a framework and library?',  #
     'What can database devs do to make things more accessible?',  #
