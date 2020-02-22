@@ -67,6 +67,7 @@ personal_questions = [
     'What\'s a stupid thing you\'ve done recently?',  # inspired by https://twitter.com/IndieHackers/status/1229499007032053760?s=20
     'Explain to a 5-year-old, what do you do for work?',
     'In emojis, what do you do for work?',
+    'In emojis, what do you want to do for work?',
     'Do you work with Open Source? What project(s)?',
     # 'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     ]
