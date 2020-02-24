@@ -69,5 +69,7 @@ personal_questions = [
     'In emojis, what do you do for work?',
     'In emojis, what do you want to do for work?',
     'Do you work with Open Source? What project(s)?',
+    '🐈 Show us your kitties!\n#TechCats',
+    '🐕🐩 Show us your pups!',
     # 'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     ]
