@@ -27,4 +27,14 @@ front_end_questions = [
     'Why would you use @\u200bmedia queries?',  # https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
     'In CSS, what is @\u200bimport used for and why would you use it?',  # allows you to import a style sheet into another style sheet
     'In CSS, what is @\u200bcharset used for and why would you use it?',  # specifies the character encoding used in the style sheet
+
+    # Real life examples
+    'What is a real life metaphor of "CSS floats"?',  # https://blog.codeanalogies.com/2016/09/20/css-floats-explained-by-riding-an-escalator/
+    'What is a real life analogy of "CSS positioning"?',  # https://blog.codeanalogies.com/2016/08/27/css-positioning-explained-by-building-an-ice-cream-sundae/
+    'What is a real life example of "CSS flexbox"?',  # https://blog.codeanalogies.com/2016/10/22/css-flexbox-explained-by-road-tripping-across-the-country/
+    'What is a real life metaphor of "CSS selectors"?',  # https://blog.codeanalogies.com/2016/11/21/css-selectors-explained-by-going-car-shopping/
+    'What is a real life analogy of "CSS box model"?',  # https://blog.codeanalogies.com/2017/03/27/the-css-box-model-explained-by-living-in-a-boring-suburban-neighborhood/
+    'What is a real life example of "CSS display"?',  # http://www.creativebloq.com/how-to/understanding-the-css-display-property
+    'What is a real life metaphor of "CSS specificity"?',  # https://blog.codeanalogies.com/2018/02/15/css-specificity-explained-by-hopelessly-shopping-for-new-clothes/
+    'What is a real life analogy of the relationship between HTML, CSS, and JS \n#JavaScript?',  # https://blog.codeanalogies.com/2018/05/09/the-relationship-between-html-css-and-javascript-explained/
     ]
