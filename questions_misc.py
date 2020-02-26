@@ -56,6 +56,7 @@ misc_questions = [
     'What is documentation? \nIs it important? \nWhy?',
     'What is nesting',  #
     'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
+    'Why is JPG the most performant file type for photos?\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
 
     # on the job stuff?
     'What is a code review?',  #
@@ -71,9 +72,10 @@ misc_questions = [
     'What is the difference between a software engineer and a developer?',  #
     'What is the difference between a software engineer and a software architecht?',  #
     'What is DevOps?',  #
+    'What is DevRel?',  #
 
     # Ergonomics
     'In terms of ergonomics, what angle should your screen be at?',  # 20 degrees
     'In terms of ergonomics, what angle should your elbows be at?',  # 90 degrees
-    'In terms of ergonomics, how far away from your screen should you be?',  #
+    'In terms of ergonomics, how far away from your screen should you be?',  # something like 20-22 inches
     ]
