@@ -78,4 +78,39 @@ misc_questions = [
     'In terms of ergonomics, what angle should your screen be at?',  # 20 degrees
     'In terms of ergonomics, what angle should your elbows be at?',  # 90 degrees
     'In terms of ergonomics, how far away from your screen should you be?',  # something like 20-22 inches
+
+    # Real World Examples
+    'What is a real life analogy of "file directories"?',  # https://blog.codeanalogies.com/2018/06/24/file-directories-explained-by-getting-dressed-in-the-morning/
+    'What is a real life example of "dev tools"?',  # https://blog.codeanalogies.com/2018/07/21/browser-developer-tools-explained-by-training-to-become-a-chef/
+    'What is a real life metaphor of "back end development"?',  #
+    'What is a real life metaphor of "front end development"?',  #
+    'What is a real life metaphor of "front end vs back end"?',  # https://blog.codeanalogies.com/2018/04/07/front-end-v-back-end-explained-by-waiting-tables-at-a-restaurant/
+    'What is a real life analogy of "localhost"?',  # https://blog.codeanalogies.com/2018/02/02/localhost-explained-by-trying-to-start-a-microbrewery/
+    'What is a real life example of "web servers"?',  # https://blog.codeanalogies.com/2018/04/26/web-servers-explained-by-running-a-microbrewery/
+    'What is a real life metaphor of "caching"?',  # https://blog.codeanalogies.com/2018/06/11/web-caching-explained-by-buying-milk-at-the-supermarket/
+    'What is a real life analogy of "APIs"?',  # https://blog.codeanalogies.com/2018/02/27/web-apis-explained-by-selling-goods-from-your-farm/
+    'What is a real life example of "Amazon Web Services (AWS) \n@awscloud"?',  # https://blog.codeanalogies.com/2018/07/31/amazon-web-services-aws-explained-by-operating-a-brewery/
+    'What is a real life metaphor of "webhooks"?',  # https://blog.codeanalogies.com/2018/03/05/the-difference-between-apis-and-webhooks-explained/
+    'What is a real life analogy of "blockchain"?',  # https://blog.codeanalogies.com/2018/04/18/blockchain-explained-by-trying-to-pass-high-school-math-class/
+    'What is a real life example of "cookies"?',  # https://blog.codeanalogies.com/2018/06/02/internet-cookies-explained-by-taking-your-kids-to-the-doctors-office/
+    'What is a real life analogy of a "repository"?',  # 
+    'What is a real life example of "SQL tables"?',  # https://medium.com/@kevink/sql-tables-explained-by-voting-in-the-infamous-2016-election-de638dd9db7#.16pkuy69p
+    'What is a real life metaphor of "JavaScript AJAX"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/
+    'What is a real life analogy of "JavaScript closures"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/10/19/javascript-closures-explained-by-mailing-a-package/
+    'What is a real life example of "JavaScript scoping"? \n#JavaScript',  # https://blog.codeanalogies.com/2017/11/22/how-javascript-variable-scoping-is-just-like-multiple-levels-of-government/
+    'What is a real life metaphor of "JavaScript promises"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/08/26/javascript-promises-explained-by-gambling-at-a-casino/
+    'What is a real life analogy of "JavaScript map()"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
+    'What is a real life example of "JavaScript filter()"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/05/14/javascripts-filter-function-explained-by-applying-to-college/
+    'What is a real life metaphor of "JavaScript this"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/03/12/javascripts-this-explained-by-starting-a-high-school-band/
+    'What is a real life analogy of "JavaScript reduce()"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/07/24/javascripts-reduce-method-explained-by-going-on-a-diet/
+    'What is a real life example of "React.js props/state "? \n#JavaScript #react',  # https://blog.codeanalogies.com/2016/10/04/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels/
+    'What is a real life metaphor of "Docker containers"? \n@Docker',  # https://dev.to/kbk0125/docker-containers-explained-by-renting-office-space-p0o
+    'What is a real life analogy of "JavaScript Async/Await"? \n#JavaScript',  # https://blog.codeanalogies.com/2019/12/22/async-await-explained-by-doing-your-morning-routine/
+    'What is a real life example of "JavaScript merge sort"? \n#JavaScript',  # https://dev.to/kbk0125/recursion-and-the-call-stack-explained-by-reading-a-book-a1
+    'What is a real life metaphor of "JavaScript recursion"? \n#JavaScript',  # https://dev.to/kbk0125/recursion-and-the-call-stack-explained-by-reading-a-book-4khm
+    'What is a real life analogy of "JavaScript arrow function"? \n#JavaScript',  # https://dev.to/kbk0125/javascript-s-arrow-functions-explained-by-going-down-a-slide-1ebm
+    'What is a real life example of "NPM"? \n@npmjs #JavaScript',  # https://dev.to/kbk0125/node-package-manager-npm-explained-by-directing-a-movie-359
+    #'What is a real life metaphor of " "? \n#',  #
+    #'What is a real life analogy of " "? \n#',  #
+    #'What is a real life example of " "? \n#',  #
     ]
