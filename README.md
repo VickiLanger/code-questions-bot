@@ -18,6 +18,8 @@ First time? I suggest starting with adding a question to questions.py. Check out
 
 If you need more of a step-by-step, skim through [this article about making your first contribution](https://dev.to/vickilanger/open-up-to-open-source-contributing-5hla).
 
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
+
 ### Who Has Contibuted?
 All contributions are greatly appreciated. 
 
