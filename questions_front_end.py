@@ -27,6 +27,13 @@ front_end_questions = [
     'Why would you use @\u200bmedia queries?',  # https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
     'In CSS, what is @\u200bimport used for and why would you use it?',  # allows you to import a style sheet into another style sheet
     'In CSS, what is @\u200bcharset used for and why would you use it?',  # specifies the character encoding used in the style sheet
+    'In regards to CSS, what is Block Element Modifier? \ninspired from a #modernweb meetup talk by @BrandonMathis at @pendoio',  # a way to avoid excessive nesting and chaos
+    'How would you center horizontally and vertically an image within a section? \ninspired from a #modernweb meetup talk by @BrandonMathis at @pendoio',  #
+    'In CSS, what can transform be used for? \ninspired from a #modernweb meetup talk by @BrandonMathis at @pendoio',  #
+    'In CSS, why is em > px? \ninspired from a #modernweb meetup talk by @BrandonMathis at @pendoio',  #
+    'What are some benefits of Progressive Web Apps (PWA)? \ninspired from a #modernweb meetup talk by @smartudhaya at @pendoio',  # from slides: progressive, discoverability, native app-like, responsive, network independent, no need for app deployment
+    'What are the requirements for making Progressive Web Apps (PWA)? \ninspired from a #modernweb meetup talk by @smartudhaya at @pendoio',  # from slides: service worker, serve on HTTPS, Web Manifest, responsive, no redirects
+    'What is the purpose of the service worker in a Progressive Web Apps (PWA)? \ninspired from a #modernweb meetup talk by @smartudhaya at @pendoio',  # from slides: triggers install, removes old cashe assets
 
     # Real life examples
     'What is a real life metaphor of "CSS floats"?',  # https://blog.codeanalogies.com/2016/09/20/css-floats-explained-by-riding-an-escalator/

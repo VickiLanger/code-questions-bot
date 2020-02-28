@@ -57,6 +57,12 @@ misc_questions = [
     'What is nesting',  #
     'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
     'Why is JPG the most performant file type for photos?\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
+    'What does DevOps have to do with feedback? \ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',  # from the slides "feedback === faster and better enhancements/updates/repairs"
+    'What type of function includes let const and var? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # function expression
+    'What React hook fires synchronously after all DOM mutations? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # useLayout Effect
+    'What do you call monkeys that share an @Amazon account?  \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # Prime-ates
+    'What does Vue call their version of React hooks?  \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # composition API
+    'What JavaScript convention allows you to use a function before it\'s defined? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyl33t at @pendoio',  # hoisting
 
     # on the job stuff?
     'What is a code review?',  #
