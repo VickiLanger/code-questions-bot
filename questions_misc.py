@@ -99,7 +99,7 @@ misc_questions = [
     'What is a real life metaphor of "webhooks"?',  # https://blog.codeanalogies.com/2018/03/05/the-difference-between-apis-and-webhooks-explained/
     'What is a real life analogy of "blockchain"?',  # https://blog.codeanalogies.com/2018/04/18/blockchain-explained-by-trying-to-pass-high-school-math-class/
     'What is a real life example of "cookies"?',  # https://blog.codeanalogies.com/2018/06/02/internet-cookies-explained-by-taking-your-kids-to-the-doctors-office/
-    'What is a real life analogy of a "repository"?',  # 
+    'What is a real life analogy of a "repository"?',  #
     'What is a real life example of "SQL tables"?',  # https://medium.com/@kevink/sql-tables-explained-by-voting-in-the-infamous-2016-election-de638dd9db7#.16pkuy69p
     'What is a real life metaphor of "JavaScript AJAX"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/
     'What is a real life analogy of "JavaScript closures"? \n#JavaScript',  # https://blog.codeanalogies.com/2018/10/19/javascript-closures-explained-by-mailing-a-package/
