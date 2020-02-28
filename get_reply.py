@@ -16,7 +16,7 @@ REPLIES = (
     '👆Look up there for a fun code question! \nCome back shortly for another! \n\n🤷Maybe it\'s simple, maybe it\'s not \n📢Tell us in a tweet \n🧭Not sure? Search the web \n🗺️Still don\'t know? Ask',
     '🙈Do NOT look at the question above!👆 \n🚫Definitely don\'t answer it! \n\n🙉Fine, don\'t listen to me. \n🤖I\'m just a bot. \n📢Whatever, I know you\'re gonna do it anyway.',
     '🚨Alert! Alert!🚨 \n🙈Do NOT look at the question above!👆 \n🚫Definitely do NOT answer it! ',
-    '💥Wild Code Question appeared! \n❓Fight or Run? \n\n You use Answer the Question \nIt was very effective!',
+    '💥Wild Code Question appeared! \n❓Fight or Run? \n\nYou use Answer the Question \nIt was very effective!',
     'You\'ve found a code question! \n👆Look at the above tweet! \n\n⌨️While you\'re here, you may as well answer it.',
 )
 
