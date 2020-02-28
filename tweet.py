@@ -5,7 +5,7 @@ Vicki Langer (@vicki_langer)
 '''
 
 import tweepy
-import time
+# import time
 
 from os import environ
 
@@ -23,11 +23,11 @@ api = tweepy.API(auth)
 
 
 def main():
-    interval = 60 * 60 * 6  # seconds * minutes * hours
+    # interval = 60 * 60 * 6  # seconds * minutes * hours
     reply_with = get_reply()
     # reply_with = 'Here\'s our question! \nStick around, we\'ll have another in 6 hours! \n\n🤷It may be easy, it may be hard. \n⌨️Either way, give it a tweet \n🔎Don\'t know it? Look it up \n❓Still unsure? Ask'
 
-    #while True:
+    # while True:
     print("finding a question...")
     question = get_question()
     print("chose question: " + question)
@@ -36,7 +36,7 @@ def main():
     api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
     print('chose reply:' + reply_with)
     print('reply has been tweeted')
-    #time.sleep(interval)
+    # time.sleep(interval)
 
 
 main()
