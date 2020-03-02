@@ -19,6 +19,7 @@ version_control_questions = [
     'ELI5: What is version control?',  #
     'What is a pull request?',  #
     'How do you name git branches?',  #
+    'What is a .gitignore file used for?',
     'What is the difference between merge and rebase',  #
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'What are examples of software that can be used for version control other than git?',  # SVN
