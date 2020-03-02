@@ -24,7 +24,7 @@ misc_questions = [
     'ELI5: What is the cloud?',  #
     'What is the "black box?"',  #
     'ELI5: What is debugging?',  #
-    'ELI5: "=" != "==" != "==="',  #
+    'ELI5: "=" != "==" != "==="',  # https://twitter.com/amdev83/status/1234529491604705281?s=20
     'What does back end refer to?',  #
     'What does database refer to?',  #
     'What is a global variable?',  #
