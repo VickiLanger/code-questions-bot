@@ -8,7 +8,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 accessibility_questions = [
-    'What is alt text and why should it be used? \n#A11y',  # text description of a graphic or image 
+    'What is alt text and why should it be used? \n#A11y',  # text description of a graphic or image
     'When should alt text not be used? \n#A11y',  # non content things like decorations
     'Why should a site be accessible?',  # so everyone can use it, equal access
     'Why shouldn\'t you rely on color only as a way to differentiate navigation? \n#A11y',  # color blindness
