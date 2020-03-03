@@ -86,7 +86,7 @@ misc_questions = [
     'In terms of ergonomics, how far away from your screen should you be?',  # something like 20-22 inches
 
     # Real World Examples
-    'What is a real life analogy of "file directories"?',  # https://blog.codeanalogies.com/2018/06/24/file-directories-explained-by-getting-dressed-in-the-morning/
+    'What is a real life analogy of "file directories"?',  # memories, stores, relationships, https://blog.codeanalogies.com/2018/06/24/file-directories-explained-by-getting-dressed-in-the-morning/
     'What is a real life example of "dev tools"?',  # https://blog.codeanalogies.com/2018/07/21/browser-developer-tools-explained-by-training-to-become-a-chef/
     'What is a real life metaphor of "back end development"?',  #
     'What is a real life metaphor of "front end development"?',  #
@@ -116,7 +116,7 @@ misc_questions = [
     'What is a real life metaphor of "JavaScript recursion"? \n#JavaScript',  # https://dev.to/kbk0125/recursion-and-the-call-stack-explained-by-reading-a-book-4khm
     'What is a real life analogy of "JavaScript arrow function"? \n#JavaScript',  # https://dev.to/kbk0125/javascript-s-arrow-functions-explained-by-going-down-a-slide-1ebm
     'What is a real life example of "NPM"? \n@npmjs #JavaScript',  # https://dev.to/kbk0125/node-package-manager-npm-explained-by-directing-a-movie-359
-    #'What is a real life metaphor of " "? \n#',  #
+    'What is a real life metaphor of "code smell"?',  #
     #'What is a real life analogy of " "? \n#',  #
     #'What is a real life example of " "? \n#',  #
     ]
