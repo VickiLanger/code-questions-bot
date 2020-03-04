@@ -63,6 +63,10 @@ misc_questions = [
     'What do you call monkeys that share an @Amazon account?  \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # Prime-ates
     'What does Vue call their version of React hooks?  \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # composition API
     'What JavaScript convention allows you to use a function before it\'s defined? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyl33t at @pendoio',  # hoisting
+    'As a variable, what is "i"? What is it used for? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # index; https://twitter.com/laurieontech/status/1235028860506275841?s=20
+    'What is a ternary? Why shouldn\'t there be more than one per line? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235026481819992066?s=20
+    'What is "self documenting code"? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235025020763533312?s=20
+    'How many things should a single function do? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # 1
 
     # on the job stuff?
     'What is a code review?',  #
