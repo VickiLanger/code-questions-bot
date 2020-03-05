@@ -70,6 +70,7 @@ misc_questions = [
 
     # on the job stuff?
     'What is a code review?',  #
+    'What should you be looking at in a code review?\n\ninspired by @james_willett1 & @techgirl1908',  # https://twitter.com/techgirl1908/status/1235287138478018561?s=20
     'What is pair programming?',  #
     'What is Agile?',  #
     'What is scrum?',  #
