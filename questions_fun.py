@@ -13,7 +13,7 @@ fun_questions = [
     'Wrong answers only!\nWhat is SVG?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
     'Wrong answers only!\nWhat is programming?\n👇🏻👇🏽👇🏼👇🏾👇🏿',
     'Wrong answers only!\nWhat is JavaScript?\n👇🏿👇🏻👇🏽👇🏼👇🏾',
-    'Wrong answers only!\nWhat is a sofware engineer?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
+    'Wrong answers only!\nWhat is a software engineer?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
     'Wrong answers only!\nWhat is @StackOverflow?\n👇🏼👇🏾👇🏿👇🏻👇🏽',
     'Wrong answers only!\nWhat is @GitHub?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
     'Wrong answers only!\nWhat is @GitLab?\n👇🏻👇🏽👇🏼👇🏾👇🏿',
