@@ -13,11 +13,11 @@ from get_question import get_question
 from get_reply import get_reply
 
 
-
 consumer_key = environ['consumer_key']
 consumer_secret = environ['consumer_secret']
 access_token = environ['access_token']
 access_token_secret = environ['access_token_secret']
+
 
 def authenticate_api():
     try:
@@ -29,6 +29,7 @@ def authenticate_api():
 
 
 def main():
+    api = authenticate_api()
     reply_with = get_reply()
 
     print("finding a question...")
