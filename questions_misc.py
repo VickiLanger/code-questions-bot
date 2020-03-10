@@ -67,6 +67,7 @@ misc_questions = [
     'What is a ternary? Why shouldn\'t there be more than one per line? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235026481819992066?s=20
     'What is "self documenting code"? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235025020763533312?s=20
     'How many things should a single function do? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # 1
+    #'something about maps',  # 
 
     # on the job stuff?
     'What is a code review?',  #
