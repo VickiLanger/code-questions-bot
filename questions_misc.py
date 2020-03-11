@@ -95,7 +95,7 @@ misc_questions = [
 
     # Real World Examples
     'What is a real life analogy of "file directories"?',  # memories, stores, relationships, https://blog.codeanalogies.com/2018/06/24/file-directories-explained-by-getting-dressed-in-the-morning/
-    'What is a real life example of "dev tools"?',  # https://blog.codeanalogies.com/2018/07/21/browser-developer-tools-explained-by-training-to-become-a-chef/
+    'What is a real life example of "browser dev tools"?',  # https://blog.codeanalogies.com/2018/07/21/browser-developer-tools-explained-by-training-to-become-a-chef/
     'What is a real life metaphor of "back end development"?',  #
     'What is a real life metaphor of "front end development"?',  #
     'What is a real life metaphor of "front end vs back end"?',  # https://blog.codeanalogies.com/2018/04/07/front-end-v-back-end-explained-by-waiting-tables-at-a-restaurant/
@@ -125,8 +125,8 @@ misc_questions = [
     'What is a real life analogy of "JavaScript arrow function"? \n#JavaScript',  # https://dev.to/kbk0125/javascript-s-arrow-functions-explained-by-going-down-a-slide-1ebm
     'What is a real life example of "NPM"? \n@npmjs #JavaScript',  # https://dev.to/kbk0125/node-package-manager-npm-explained-by-directing-a-movie-359
     'What is a real life metaphor of "code smell"?',  #
-    'What is a real life analogy of "mapping"? \n#',  #
-    #'What is a real life example of " "? \n#',  #
+    'What is a real life analogy of "mapping"?',  #
+    'What is a real life example of "a function"?',  # any acion that has repeatable steps
     #'What is a real life example of " "? \n#',  #
     #'What is a real life example of " "? \n#',  #
     #'What is a real life example of " "? \n#',  #
