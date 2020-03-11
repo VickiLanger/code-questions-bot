@@ -67,7 +67,9 @@ misc_questions = [
     'What is a ternary? Why shouldn\'t there be more than one per line? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235026481819992066?s=20
     'What is "self documenting code"? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235025020763533312?s=20
     'How many things should a single function do? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # 1
-    #'something about maps',  # 
+    'What is mapping used for?',  # takes each element from an original array, transforms it with a function that you specify, and adds the result to a new array in the same order
+    'When would you use a map instead of a loop?',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
+    'When would you use a loop instead of a map?',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
 
     # on the job stuff?
     'What is a code review?',  #
@@ -123,6 +125,9 @@ misc_questions = [
     'What is a real life analogy of "JavaScript arrow function"? \n#JavaScript',  # https://dev.to/kbk0125/javascript-s-arrow-functions-explained-by-going-down-a-slide-1ebm
     'What is a real life example of "NPM"? \n@npmjs #JavaScript',  # https://dev.to/kbk0125/node-package-manager-npm-explained-by-directing-a-movie-359
     'What is a real life metaphor of "code smell"?',  #
-    #'What is a real life analogy of " "? \n#',  #
+    'What is a real life analogy of "mapping"? \n#',  #
+    #'What is a real life example of " "? \n#',  #
+    #'What is a real life example of " "? \n#',  #
+    #'What is a real life example of " "? \n#',  #
     #'What is a real life example of " "? \n#',  #
     ]
