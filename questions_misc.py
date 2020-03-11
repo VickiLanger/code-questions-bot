@@ -55,6 +55,9 @@ misc_questions = [
     'What are closures?',  # https://dev.to/rahatch/learning-closures-with-pokemon-teams-4109
     'What is documentation? \nIs it important? \nWhy?',
     'What is nesting',  #
+    'How do we know if an algorithm is efficient?',  #
+    'When evaluating complexity, what factors should you consider?',  # time and space
+    'What is an algorithm? What are they used for?',  # process or set of rules that computers follow in order to make things happen; Algorithms are most often used to manipulate data
     'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
     'Why is JPG the most performant file type for photos?\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
     'What does DevOps have to do with feedback? \ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',  # from the slides "feedback === faster and better enhancements/updates/repairs"
@@ -126,7 +129,7 @@ misc_questions = [
     'What is a real life example of "NPM"? \n@npmjs #JavaScript',  # https://dev.to/kbk0125/node-package-manager-npm-explained-by-directing-a-movie-359
     'What is a real life metaphor of "code smell"?',  #
     'What is a real life analogy of "mapping"?',  #
-    'What is a real life example of "a function"?',  # any acion that has repeatable steps
+    'What is a real life example of "a function"?',  # any action that has repeatable steps
     #'What is a real life example of " "? \n#',  #
     #'What is a real life example of " "? \n#',  #
     #'What is a real life example of " "? \n#',  #
