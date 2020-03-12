@@ -56,7 +56,8 @@ misc_questions = [
     'What is documentation? \nIs it important? \nWhy?',
     'What is nesting',  #
     'How do we know if an algorithm is efficient?',  #
-    'When evaluating complexity, what factors should you consider?',  # time and space
+    'What is Big O Notation?',  # expression of overall efficiency, factoring in both the time and space complexities
+    'When evaluating complexity, what factors should you consider?',  # runtime and space
     'What is an algorithm? What are they used for?',  # process or set of rules that computers follow in order to make things happen; Algorithms are most often used to manipulate data
     'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
     'Why is JPG the most performant file type for photos?\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
@@ -73,6 +74,9 @@ misc_questions = [
     'What is mapping used for?',  # takes each element from an original array, transforms it with a function that you specify, and adds the result to a new array in the same order
     'When would you use a map instead of a loop?',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
     'When would you use a loop instead of a map?',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
+    'When should you use a for loop?',  # tell computer what to do with each element
+    'When should you use a while loop?',  # wanted do do something as long as certain condition is true
+    'When should you use a loop?',  # repeated actions
 
     # on the job stuff?
     'What is a code review?',  #
