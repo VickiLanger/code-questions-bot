@@ -37,8 +37,8 @@ front_end_questions = [
     'How do you make a link open in a new tab?',  # target="_blank"
     'Why should you add rel="noreferrer" to a target="_blank"? \n\ninspired by a tweet from @addyosmani',  # https://twitter.com/addyosmani/status/1234055782896979968
     'What is lazy loading? What\'s it used for?',  # https://twitter.com/addyosmani/status/1227619409625174016?s=20
-    'What is the difference between SASS and SCSS?',
-    'How to stop divs from overlaying after using position absolute?',
+    'What is the difference between SASS and SCSS?',  #
+    'How would you stop divs from overlaying after using position absolute?',  #
 
 
     # Real life examples
