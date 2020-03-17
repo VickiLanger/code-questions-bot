@@ -10,6 +10,9 @@
 
 [Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/code-questions-bot-42io)
 
+## Mission
+Have fun & meet other devs while learning and helping each other learn.
+
 ## Contributing
 
 If you would like to contribute, feel free to make a pull request.
