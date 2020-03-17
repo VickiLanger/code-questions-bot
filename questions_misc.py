@@ -15,7 +15,7 @@ misc_questions = [
     'What is the name of the Java mascot?',  # Duke
     'In a tree, where is the root?',  # The top
     'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
-    'What is a DDos attack?'  #
+    'What is a DDoS attack?',  #
     'ELI5: What is cache?',  #
     #'ELI5: What is an IDE?',  #
     'What is a code smell?',  #
