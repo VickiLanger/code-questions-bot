@@ -40,4 +40,9 @@ acronym_questions = [
     'What does SVG stand for? What is it?',  # Scalable Vector Graphics, an XML based way of rendering 2D graphics.
     'What does JSON stand for? What is it?',  # JavaScript Object Notation, a machine readable format for transporting data between computer programs.
     'What does BEM stand for? What is it? \ninspired from a #modernweb meetup talk by @BrandonMathis at @pendoio',  # Block Element Modifier
+    'What does VDU stand for? What is it?',#Visual Display Unit , Monitor
+    'What does ISCII stand for? What is it?', #Indian Standard Code for Information Interchange
+    'What does FIT stand for?How is FIT different from IT?',#Foundatin of Information Technology
+    'What does SQL stand for? What is it?', #Structured Query Language
+    
     ]
