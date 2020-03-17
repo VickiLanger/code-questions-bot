@@ -26,8 +26,9 @@ All contributions are greatly appreciated.
 |Name|Contribution|GitHub|Twitter|
 |--|--|--|--|
 | Vicki Langer | the creator | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
-| Yechiel Kalmenson | Added answers and questions | https://github.com/achasveachas | https://twitter.com/yechielk |
+| Yechiel Kalmenson | Added answers and questions / resolved bug | https://github.com/achasveachas | https://twitter.com/yechielk |
 | Tyler VanBlargan | Reported a bug | https://github.com/12vanblart | https://twitter.com/pichuplayer |
+| Priyanshu Kumar Sinha | Added answers and questions | https://github.com/PriyanshuKumarSinha |  |
 | Your Name | Landing page/typos | GitHub link | twitter link|
 | Your Name | Added Questions | GitHub link | twitter link|
 
