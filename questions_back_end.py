@@ -55,9 +55,9 @@ back_end_questions = [
     'What are tests for?  \n\ninspired by @Treybastian',  #
     'Why is readability so important?  \n\ninspired by @Treybastian',  #
     'Why should you avoid single letter variables? \n\ninspired by @Treybastian @cjtaylor2390',  # readability
-    'What it a model?',  #
+    'What is a model?',  #
     'What is abstraction?',  #
-    'What are the advance functions in python?',  # map() #filter() #reduce()
+    'What are the advanced functions in python?',  # map(), filter(), reduce()
     'What is python best at?',  #
 
     # Real life examples
