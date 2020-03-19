@@ -9,7 +9,7 @@ Vicki Langer (@vicki_langer)
 
 back_end_questions = [
     'What is a class?',  #
-    'What is a method',  #
+    'What is a method?',  #
     'What is a module?',  #
     'What is a function?',  # A grouped set of instructions that are given a name so they can be called elsewhere
     'What is a codebase?',  #
