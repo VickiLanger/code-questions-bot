@@ -57,7 +57,7 @@ back_end_questions = [
 
 
     # Real life examples
-    'What is a real life example of "exception handling"?',  # 
+    'What is a real life example of "exception handling"?',  #
     'What is a real life example of "logical operators"?',  # if raining and dog_is_napping: skip_playing_ball
     'What is a real life example of "conditionals"?',  # if nice_outside: play_ball_with_dog
     'What is a real life example of a "function"?',  # run: pick up right for, pick up left foot, propel forward, repeat
