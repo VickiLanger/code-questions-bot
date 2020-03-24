@@ -17,7 +17,6 @@ back_end_questions = [
     'What are data structures?',  #
     'What are lambda functions?',  #
     'What does it mean to loop?',  # To repeat a certain set of instructions over and over (usually until some condition is met)
-    'What is a dev environment?',  #
     'What does it mean to refactor?',  #
     'What is an attribute of a class?',  #
     'What does it mean to concatenate?',  # To add two things together (strings, arrays, maps, etc.)
