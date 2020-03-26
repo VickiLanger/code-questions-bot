@@ -31,9 +31,9 @@ front_end_questions = [
     'How would you center horizontally and vertically an image within a section? \n\ninspired from a @moderndotweb meetup talk by @BrandonMathis at @pendoio',  #
     'In CSS, what can transform be used for? \n\ninspired from a @moderndotweb meetup talk by @BrandonMathis at @pendoio',  #
     'In CSS, why is em > px? \n\ninspired from a @moderndotweb meetup talk by @BrandonMathis at @pendoio',  #
-    'What are some benefits of Progressive Web Apps (PWA)? \n\ninspired from a @moderndotweb meetup talk by @smartudhaya at @pendoio',  # from slides: progressive, discoverability, native app-like, responsive, network independent, no need for app deployment
-    'What are the requirements for making Progressive Web Apps (PWA)? \n\ninspired from a @moderndotweb meetup talk by @smartudhaya at @pendoio',  # from slides: service worker, serve on HTTPS, Web Manifest, responsive, no redirects
-    'What is the purpose of the service worker in a Progressive Web Apps (PWA)? \n\ninspired from a @moderndotweb meetup talk by @smartudhaya at @pendoio',  # from slides: triggers install, removes old cashe assets
+    'What are some benefits of Progressive Web Apps (PWA)? \n\ninspired from a @moderndotweb meetup talk by @AskUdhay at @pendoio',  # from slides: progressive, discoverability, native app-like, responsive, network independent, no need for app deployment
+    'What are the requirements for making Progressive Web Apps (PWA)? \n\ninspired from a @moderndotweb meetup talk by @AskUdhay at @pendoio',  # from slides: service worker, serve on HTTPS, Web Manifest, responsive, no redirects
+    'What is the purpose of the service worker in a Progressive Web Apps (PWA)? \n\ninspired from a @moderndotweb meetup talk by @AskUdhay at @pendoio',  # from slides: triggers install, removes old cashe assets
     'How do you make a link open in a new tab?',  # target="_blank"
     'Why should you add rel="noreferrer" to a target="_blank"? \n\ninspired by a tweet from @addyosmani',  # https://twitter.com/addyosmani/status/1234055782896979968
     'What is lazy loading? What\'s it used for?',  # https://twitter.com/addyosmani/status/1227619409625174016?s=20
