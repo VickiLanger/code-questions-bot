@@ -60,13 +60,13 @@ misc_questions = [
     'When evaluating complexity, what factors should you consider?',  # runtime and space
     'What is an algorithm? What are they used for?',  # process or set of rules that computers follow in order to make things happen; Algorithms are most often used to manipulate data
     'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
-    'Why is JPG the most performant file type for photos?\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
-    'What does DevOps have to do with feedback? \ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',  # from the slides "feedback === faster and better enhancements/updates/repairs"
-    'What type of function includes let const and var? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # function expression
-    'What React hook fires synchronously after all DOM mutations? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # useLayout Effect
-    'What do you call monkeys that share an @Amazon account?  \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # Prime-ates
-    'What does Vue call their version of React hooks?  \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # composition API
-    'What JavaScript convention allows you to use a function before it\'s defined? \ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyl33t at @pendoio',  # hoisting
+    'Why is JPG the most performant file type for photos?\n\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
+    'What does DevOps have to do with feedback? \n\ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',  # from the slides "feedback === faster and better enhancements/updates/repairs"
+    'What do you call monkeys that share an @Amazon account?  \n\ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # Prime-ates
+    'What type of function includes let const and var?',  # function expression
+    'What React hook fires synchronously after all DOM mutations?',  # useLayout Effect
+    'What does Vue call their version of React hooks?',  # composition API
+    'What JavaScript convention allows you to use a function before it\'s defined?',  # hoisting
     'As a variable, what is "i"? What is it used for? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # index; https://twitter.com/laurieontech/status/1235028860506275841?s=20
     'What is a ternary? Why shouldn\'t there be more than one per line? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235026481819992066?s=20
     'What is "self documenting code"? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235025020763533312?s=20
