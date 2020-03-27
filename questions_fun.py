@@ -22,7 +22,7 @@ fun_questions = [
     'Wrong answers only!\nWhat is @GetMakerlog?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
     'Wrong answers only!\nWhat does PWA stand for?\n👇🏻👇🏽👇🏼👇🏾👇🏿 \n\ninspired by a tweet from @matvelloso',
     'Wrong answers only!\nWhat is #Kubernetes ?\n👇🏿👇🏻👇🏽👇🏼👇🏾 \n\ninspired by a tweet from @ChiefScientist',
-    #'Wrong answers only!\nWhat is ?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
+    'Wrong answers only!\nWhat is IDE ?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
     #'Wrong answers only!\nWhat is ?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
     #'Wrong answers only!\nWhat is ?\n👇🏻👇🏽👇🏼👇🏾👇🏿',
     #'Wrong answers only!\nWhat is ?\n👇🏿👇🏻👇🏽👇🏼👇🏾',
