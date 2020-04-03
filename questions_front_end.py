@@ -14,7 +14,7 @@ front_end_questions = [
     'How should I make a list without bullets?',  #
     'What is the difference between a <div> and a <span>?',  #
     'What is the difference between a "grid" and a "flexbox"?',  #
-    'What\'s the difference between a web app and a website?,'  #
+    'What\'s the difference between a web app and a website?',  #
     'In CSS, what\'s the difference between flexbox and grid?',  #
     'What can front end devs do to make things more accessible?',  #
     'In CSS, what\'s the difference between a grid and a table?',  #
