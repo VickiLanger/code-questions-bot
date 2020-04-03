@@ -16,6 +16,7 @@ from questions_misc import misc_questions
 from questions_personal import personal_questions
 from questions_pop_culture import pop_culture_questions
 from questions_version_control import version_control_questions
+from facts import facts
 
 
 # TODO: add more questions
@@ -35,4 +36,5 @@ QUESTIONS = (
     + personal_questions
     + pop_culture_questions
     + version_control_questions
+    + facts
     )
