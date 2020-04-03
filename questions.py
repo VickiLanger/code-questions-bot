@@ -36,5 +36,4 @@ QUESTIONS = (
     + personal_questions
     + pop_culture_questions
     + version_control_questions
-    + facts
     )
