@@ -22,4 +22,4 @@ fact = [
     'https://twitter.com/CodeQBot/status/1222986645563232256',  #
     ]
 
-facts = 'Did you know \n' + choice(fact) + '\n'
+facts = str('Did you know \n' + choice(fact) + '\n')
