@@ -10,7 +10,7 @@ from random import choice
 # NOTE: please add  fact, then comment the source/reference
 
 
-fact = [
+facts = [
     # 'fact goes here',  # reference
     'The first Apple computer was made using old parts they collected from their staff for free.',  #
     'The first mouse was made out of wood.',  #
@@ -22,4 +22,4 @@ fact = [
     'https://twitter.com/CodeQBot/status/1222986645563232256',  #
     ]
 
-# facts = list(str('Did you know \n' + choice(fact) + '\n'))
+# fact = list(str('Did you know \n' + choice(fact) + '\n'))
