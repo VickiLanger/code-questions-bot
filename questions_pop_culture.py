@@ -15,8 +15,6 @@ pop_culture_questions = [
     'In "Silicon Valley" Season 3 Episode 1, what language is being used?\n@SiliconHBO',  # https://www.reddit.com/r/SiliconValleyHBO/comments/4gbra7/i_got_the_silicon_valley_s03e01_code_to_compile/)
     'What day is celebrated as Programmer\'s day? Why?\n#ProgrammersDay',  #
     '🐠In Mr. Robot, what is the name of Elliot\'s betta fish? @whoismrrobot #MrRobot',  # Qwerty
-    'Who was the first Disney Princess? @DisneyStudios' #Disney
-    'Who created Mickey Mouse? @DisneyStudios #Disney' #Disney #MickeyMouse
     'Why is Hacktoberfest done only once in a year? @Hacktoberfest #Hacktoberfest2020'
     # 'something... \n\n@HaltAMC #HaltandCatchFire',  #
     # 'something... \n\n@ZoeysPlaylist #ZoeysPlaylist',  #
