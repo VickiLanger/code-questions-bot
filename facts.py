@@ -4,7 +4,6 @@ facts.py: some facts for @CodeQBot
 Vicki Langer (@vicki_langer)
 '''
 
-from random import choice
 
 # TODO: add more facts
 # NOTE: please add  fact, then comment the source/reference
@@ -21,5 +20,3 @@ facts = [
     'Java was initially designed with the primary aim for use in Interactive television.',  #
     'https://twitter.com/CodeQBot/status/1222986645563232256',  #
     ]
-
-# fact = list(str('Did you know \n' + choice(fact) + '\n'))
