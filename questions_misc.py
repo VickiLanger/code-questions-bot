@@ -40,7 +40,7 @@ misc_questions = [
     'What is the difference between computer science and programming?',  #
     'What is the difference between front end, back end, and database?',  #
     'What is the difference between high-level and low-level languages?',  #
-    'Who are the "Big 4" Would you work for them?',  # some combination of Google, Microsoft, Facebook, Amazon, and Apple
+    'Who are the "Big 4"? Would you work for them?',  # some combination of Google, Microsoft, Facebook, Amazon, and Apple
     'What percentage of programming jobs are in industries outside of tech?',  # Currently around 70%
     'Is JavaScript used for front end or back end?',  # Both
     'How do you conect the front end with the back end?',  #
