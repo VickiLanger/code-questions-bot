@@ -1,6 +1,6 @@
 '''
-get_questions.py: grab a random question
-24 January 2020
+get_tweets.py: grab a random question
+10 September 2020
 Vicki Langer (@vicki_langer)
 '''
 
