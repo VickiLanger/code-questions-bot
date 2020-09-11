@@ -1,6 +1,6 @@
 '''
-tweet.py: tweet bot to tweet code quetions
-21 January 2020
+tweet.py: post tweets to twitter.com
+11 September 2020
 Vicki Langer (@vicki_langer)
 '''
 
@@ -9,7 +9,7 @@ import tweepy
 
 from os import environ
 
-from get_question import get_question
+from get_tweet import get_tweet
 from get_reply import get_reply
 
 
@@ -32,11 +32,11 @@ def main():
     api = authenticate_api()
     reply_with = get_reply()
 
-    print("finding a question...")
-    question = get_question()
-    print("chose question: " + question)
-    tweet = api.update_status(question)  # variable used later for reply to this tweet
-    print('question has been tweeted')
+    print("finding a tweet...")
+    tweet = get_tweet()
+    print("chose tweet: " + tweet)
+    tweet = api.update_status(tweet)  # variable used later for reply to this tweet
+    print('tweet has been tweeted')
     api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
     print('chose reply:' + reply_with)
     print('reply has been tweeted')

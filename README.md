@@ -1,23 +1,23 @@
 # Twitter Bot [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  & Tweepy
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/code-questions-bot/fork)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/fork)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/VickiLanger/code-questions-bot/graphs/commit-activity)
-[![open issues](https://img.shields.io/github/issues/VickiLanger/code-questions-bot.svg)](https://github.com/VickiLanger/code-questions-bot/issues?q=is%3Aopen+is%3Aissue)
-[![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/code-questions-bot.svg)](https://github.com/VickiLanger/code-questions-bot/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/code-questions-bot.svg)](https://GitHub.com/VickiLanger/code-questions-bot/graphs/contributors/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/commit-activity)
+[![open issues](https://img.shields.io/github/issues/VickiLanger/Queer-of-the-day-bot.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/issues?q=is%3Aopen+is%3Aissue)
+[![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/Queer-of-the-day-bot.svg)](https://github.com/VickiLanger/Queer-of-the-day-bot/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/Queer-of-the-day-bot.svg)](https://GitHub.com/VickiLanger/Queer-of-the-day-bot/graphs/contributors/)
 
-[Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/code-questions-bot-42io)
+[Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/Queer-of-the-day-bot-42io)
 
 ## Mission
-Have fun & meet other devs while learning and helping each other learn.
+Share gooofiness in regards to LGBTQ labels, then have a followup tweet to define the label. Also have a "this day in queer history" set of tweets
 
 ## Contributing
 
 If you would like to contribute, feel free to make a pull request.
 
-First time? I suggest starting with adding a question to questions.py. Check out [issue #5](https://github.com/VickiLanger/code-questions-bot/issues/5) for more details.
+First time? I suggest starting with adding a question to questions.py. Check out [issue #5](https://github.com/VickiLanger/Queer-of-the-day-bot/issues/5) for more details.
 
 If you need more of a step-by-step, skim through [this article about making your first contribution](https://dev.to/vickilanger/open-up-to-open-source-contributing-5hla).
 
@@ -29,9 +29,6 @@ All contributions are greatly appreciated.
 |Name|Contribution|GitHub|Twitter|
 |--|--|--|--|
 | Vicki Langer | the creator | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
-| Yechiel Kalmenson | Added answers and questions / resolved bug | https://github.com/achasveachas | https://twitter.com/yechielk |
-| Tyler VanBlargan | Reported a bug | https://github.com/12vanblart | https://twitter.com/pichuplayer |
-| Priyanshu Kumar Sinha | Added answers and questions | https://github.com/PriyanshuKumarSinha |  |
 | Your Name | Landing page/typos | GitHub link | twitter link|
 | Your Name | Added Questions | GitHub link | twitter link|
 
