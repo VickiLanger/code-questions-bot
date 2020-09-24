@@ -50,7 +50,7 @@ back_end_questions = [
     'What is the best way to store passwords?  \n\ninspired by @cjtaylor2390',  # salt and hash
     'Stored passwords should be hashed. Why should they also be salted?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
     'What are rainbow tables?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
-    'What does storing passwords have to do with breakfast?  \n\ninspired by @cjtaylor2390'  # https://twitter.com/cjtaylor2390/status/1234516501908115459?s=20
+    'What does storing passwords have to do with breakfast?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234516501908115459?s=20
     'What are tests for?  \n\ninspired by @Treybastian',  #
     'Why is readability so important?  \n\ninspired by @Treybastian',  #
     'Why should you avoid single letter variables? \n\ninspired by @Treybastian @cjtaylor2390',  # readability

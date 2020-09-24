@@ -40,7 +40,7 @@ misc_questions = [
     'What is the difference between computer science and programming?',  #
     'What is the difference between front end, back end, and database?',  #
     'What is the difference between high-level and low-level languages?',  #
-    'Who are the "Big 4" Would you work for them?',  # some combination of Google, Microsoft, Facebook, Amazon, and Apple
+    'Who are the "Big 4"? Would you work for them?',  # some combination of Google, Microsoft, Facebook, Amazon, and Apple
     'What percentage of programming jobs are in industries outside of tech?',  # Currently around 70%
     'Is JavaScript used for front end or back end?',  # Both
     'How do you conect the front end with the back end?',  #
@@ -60,17 +60,17 @@ misc_questions = [
     'When evaluating complexity, what factors should you consider?',  # runtime and space
     'What is an algorithm? What are they used for?',  # process or set of rules that computers follow in order to make things happen; Algorithms are most often used to manipulate data
     'What is the best way to organize methods/functions within a file?',  # https://dev.to/ben/what-is-the-best-way-to-organize-methods-functions-within-a-file-11ih
-    'Why is JPG the most performant file type for photos?\n\ninspired by @EmmaBostian',  # https://twitter.com/EmmaBostian/status/1231997438346612736
-    'What does DevOps have to do with feedback? \n\ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',  # from the slides "feedback === faster and better enhancements/updates/repairs"
-    'What do you call monkeys that share an @Amazon account?  \n\ninspired by JS Jeopardy at a #modernweb meetup w/ @ladyleet at @pendoio',  # Prime-ates
+    'Why is JPG the most performant file type for photos?',  # https://twitter.com/EmmaBostian/status/1231997438346612736
+    'What does DevOps have to do with feedback?',  # from the slides "feedback === faster and better enhancements/updates/repairs"
+    'What do you call monkeys that share an @Amazon account?  \n\ninspired by JS Jeopardy at a @moderndotweb meetup w/ @ladyleet',  # Prime-ates
     'What type of function includes let const and var?',  # function expression
     'What React hook fires synchronously after all DOM mutations?',  # useLayout Effect
     'What does Vue call their version of React hooks?',  # composition API
     'What JavaScript convention allows you to use a function before it\'s defined?',  # hoisting
-    'As a variable, what is "i"? What is it used for? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # index; https://twitter.com/laurieontech/status/1235028860506275841?s=20
-    'What is a ternary? Why shouldn\'t there be more than one per line? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235026481819992066?s=20
-    'What is "self documenting code"? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # https://twitter.com/laurieontech/status/1235025020763533312?s=20
-    'How many things should a single function do? \n\ninspired by a #DevDiscuss tweet from @laurieontech',  # 1
+    'As a variable, what is "i"? What is it used for?',  # index; https://twitter.com/laurieontech/status/1235028860506275841?s=20
+    'What is a ternary? Why shouldn\'t there be more than one per line?',  # https://twitter.com/laurieontech/status/1235026481819992066?s=20
+    'What is "self documenting code"?',  # https://twitter.com/laurieontech/status/1235025020763533312?s=20
+    'How many things should a single function do?',  # 1
     'What is mapping used for?',  # takes each element from an original array, transforms it with a function that you specify, and adds the result to a new array in the same order
     'When would you use a map instead of a loop?',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
     'When would you use a loop instead of a map?',  # https://blog.codeanalogies.com/2018/02/20/javascript-map-method-explained-by-going-on-a-hike/
@@ -81,7 +81,7 @@ misc_questions = [
 
     # on the job stuff?
     'What is a code review?',  #
-    'What should you be looking at in a code review?\n\ninspired by @james_willett1 & @techgirl1908',  # https://twitter.com/techgirl1908/status/1235287138478018561?s=20
+    'What should you be looking at in a code review?',  # https://twitter.com/techgirl1908/status/1235287138478018561?s=20
     'What is pair programming?',  #
     'What is Agile?',  #
     'What is scrum?',  #
@@ -95,7 +95,7 @@ misc_questions = [
     'What is the difference between a software engineer and a software architecht?',  #
     'What is DevOps?',  #
     'What is DevRel?',  #
-    'What\'s the difference between Computer Engineering and Computer Science \n\ninspired by @MarcosNASAG',  #
+    'What\'s the difference between Computer Engineering and Computer Science',  #
 
     # Ergonomics
     'In terms of ergonomics, what angle should your screen be at?',  # 20 degrees

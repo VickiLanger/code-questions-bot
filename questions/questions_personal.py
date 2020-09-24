@@ -8,7 +8,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: opinions welcome here
 
 personal_questions = [
-    'What "wrong" development things did you do for a really long time without realizing? \ninspired by @laurieontech',  # inspired by https://twitter.com/laurieontech/status/1230119484146450432?s=20
+    'What "wrong" development things did you do for a really long time without realizing?',  # inspired by https://twitter.com/laurieontech/status/1230119484146450432?s=20
     '🧮 How important are math skills for software development?',  # inspired by https://dev.to/ben/how-important-are-math-skills-for-software-development-347n
     '📚 What is the single best code/programming book you\'ve read?',
     'Tabs, Spaces, tabs as spaces, or spaces as tabs?',
@@ -36,7 +36,7 @@ personal_questions = [
     'What badass Black folks are you following that everyone else should follow? \nWhy? \n\nTag \'em',
     'What badass Indigenous folks are you following that everyone else should follow? \nWhy? \n\nTag \'em',
     'What awesome bots 🤖 should everyone follow? \nWhy? \n\nTag \'em',
-    # 'What badass underrepresented peeps are you following that everyone else should follow? \nWhy? \nTag \'em',
+    'What badass underrepresented peeps are you following that everyone else should follow? \nWhy? \nTag \'em',
     'What badass folks are you following that everyone else should follow? \nWhy? \nTag \'em',
     'Do you have a portfolio? Why or why not? \nShare a link\n👇🏽👇🏿👇🏼👇🏾👇🏻'
     'Do you make stickers? Which is your favorite? \nShare a link\n👇🏽👇🏿👇🏼👇🏾👇🏻'
@@ -47,7 +47,7 @@ personal_questions = [
     'What was your latest win?',
     'Does coding spark joy? 🌟',
     'Are you a #CodeNewbie or a Code Expert?',
-    # 'What do you need help with? \nor \nWhat can you help someone with?',
+    'What do you need help with? \nor \nWhat can you help someone with?',
     'What are your goals for the next few days?',
     'What\'s your browser of choice? Why?',
     'Describe you job with just a GIF!',
@@ -72,6 +72,6 @@ personal_questions = [
     'Do you work with Open Source? What project(s)?',
     '🐈 Show us your kitties!\n#TechCats',
     '🐕🐩 Show us your pups!',
-    # 'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
+    'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
     'Do you believe most IoT devices, on the market right now, are secure enough? \ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',
     ]
