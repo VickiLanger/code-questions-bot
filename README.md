@@ -13,6 +13,8 @@
 ## Mission
 Have fun & meet other devs while learning and helping each other learn.
 
+![Screeenshot of tweets by @codeQBot "What does API Stand for" and "What is exception handling? why use it?"](https://pbs.twimg.com/media/EikdG-lWkAAwdaH?format=jpg&name=small)
+
 ## Contributing
 
 If you would like to contribute, feel free to make a pull request.
