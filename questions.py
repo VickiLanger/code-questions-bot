@@ -4,19 +4,19 @@ questions.py: questions to be used by tweet.py for @CodeQBot
 Vicki Langer (@vicki_langer)
 '''
 
-from questions_accessibility import accessibility_questions
-from questions_acronyms import acronym_questions
-from questions_back_end import back_end_questions
-from questions_feedback import feedback_questions
-from questions_front_end import front_end_questions
-from questions_fun import fun_questions
-from questions_history import history_questions
-from questions_http_statuses import http_status_questions
-from questions_misc import misc_questions
-from questions_personal import personal_questions
-from questions_pop_culture import pop_culture_questions
-from questions_version_control import version_control_questions
-from facts import facts
+from .questions.questions_accessibility import accessibility_questions
+from .questions.questions_acronyms import acronym_questions
+from .questions.questions_back_end import back_end_questions
+from .questions.questions_feedback import feedback_questions
+from .questions.questions_front_end import front_end_questions
+from .questions.questions_fun import fun_questions
+from .questions.questions_history import history_questions
+from .questions.questions_http_statuses import http_status_questions
+from .questions.questions_misc import misc_questions
+from .questions.questions_personal import personal_questions
+from .questions.questions_pop_culture import pop_culture_questions
+from .questions.questions_version_control import version_control_questions
+from .questions.facts import facts
 
 
 # TODO: add more questions
