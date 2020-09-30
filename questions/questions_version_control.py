@@ -10,14 +10,14 @@ Vicki Langer (@vicki_langer)
 version_control_questions = [
     'What should be in your git commit messages? What should not?',  # why you made a change
     'What is the purpose of testing code?',  #
-    'What is a commit?',  #
-    'What does it mean to stage changes?',  #
+    'What is a commit?',  # a snapshot of the repository at one point in time
+    'What does it mean to stage changes?',  # to stage changes means to finally prepare them for a commit i.e git knows about the change but they are not permanent in repository
     'Why would you stage changes?',  #
     'Why would you squash commits?',  #
     'What do it mean to rebase?',  #
     'ELI5: What is Git?',  #
     'ELI5: What is version control?',  #
-    'What is a pull request?',  #
+    'What is a pull request?',  # 
     'How do you name git branches?',  #
     'What is a .gitignore file used for?',
     'What is the difference between merge and rebase',  #
@@ -26,5 +26,6 @@ version_control_questions = [
     'What is a real life example of version control?',  #
     'What is a branch? Why do you need to make a branch?',  #
     'What is the difference between a fix and a hotfix?',  #
-    'What is a master branch?',  #
+    'What is a master branch?',  # 
+    'What is head in git and how many heads can be created in a repository?', # Head is simply a reference to a commit object.Default head is "Master".There can be multiple heads in a repository.
     ]
