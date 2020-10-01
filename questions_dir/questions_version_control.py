@@ -24,8 +24,8 @@ version_control_questions = [
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
     'What are examples of software that can be used for version control other than git?',  # SVN
     'What is a real life example of version control?',  #
-    'What is a branch? Why do you need to make a branch?',  #
     'What is the difference between a fix and a hotfix?',  #
     'What is a master branch?',  # 
     'What is head in git and how many heads can be created in a repository?', # Head is simply a reference to a commit object.Default head is "Master".There can be multiple heads in a repository.
+    'What is a branch? Why do you need to make a branch?',  #  A branch is a separate development path (in the same repository) that is frequently used to contribute new features without interfering with the main project.  Contributos need to make branches because it allows each developer to branch out from the original code base and isolate their work from others without affecting the original code.
     ]
