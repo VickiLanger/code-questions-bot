@@ -9,7 +9,7 @@ Vicki Langer (@vicki_langer)
 
 accessibility_questions = [
     'What is alt text and why should it be used? \n#A11y',  # text description of a graphic or image
-    'What do you use to verify your website is accessible?',  #
+    'What do you use to verify your website is accessible?',  # Five ways are there to check, https://www.boia.org/blog/5-quick-ways-to-self-check-the-accessibility-of-a-website
     'Why is accessibility important? \n#A11Y',  # https://dev.to/mokkapps/why-a-good-frontend-developer-should-care-about-web-accessibility-545m
     'What can a backend dev do to improve Accessibility? \n#A11Y',  # https://dev.to/vickilanger/what-can-a-backend-dev-do-to-improve-accessibility-1ca8
     'When should alt text not be used? \n#A11y',  # non content things like decorations
