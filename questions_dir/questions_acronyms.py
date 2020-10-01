@@ -44,5 +44,8 @@ acronym_questions = [
     'What does ISCII stand for? What is it?',  # Indian Standard Code for Information Interchange
     'What does FIT stand for? How is FIT different from IT?',  # Foundation of Information Technology
     'What does SQL stand for? What is it?',  # Structured Query Language
-    
+    'What does ECB stand for in cryptography? What is it?',  # Electronic Code Book, a mode of operation for Block cipher
+    'What does SaaS stands for? What is it?',  # Software as a Service, way of delivering applications over the Internet—as a service
+    'What does WLAN stands for? What is it?',  # Wireless Local Area Network, a wireless computer network that links two or more devices using wireless communication to form a local area network (LAN) within a limited area such as a home, school, computer laboratory, campus, or office building.
+    'What does ISP stands for? What is it?',  # Internet Service Provider, an organisation that provides services for accessing, using, or participating in the Internet
     ]
