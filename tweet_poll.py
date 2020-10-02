@@ -7,6 +7,8 @@ Vicki Langer (@vicki_langer)
 import tweepy
 import requests # to make POST request to send a Poll
 
+
+
 from os import environ
 
 consumer_key = environ['consumer_key']
@@ -23,6 +25,7 @@ def authenticate_api():
     except Exception:
         print(f"An error occurred when attempting to authenticate with the twitter API.")
 
+        
 
 def main():
     api = authenticate_api()

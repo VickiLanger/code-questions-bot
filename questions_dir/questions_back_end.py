@@ -8,20 +8,20 @@ Vicki Langer (@vicki_langer)
 # NOTE: please add the question, then comment the expected answer
 
 back_end_questions = [
-    'What is a class?',  #
-    'What is a method?',  #
+    'What is a class?',  # a class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods), https://www.geeksforgeeks.org/c-classes-and-objects/
+    'What is a method?',  # procedure associated with a message and an object, https://en.wikipedia.org/wiki/Method_(computer_programming)#:~:text=A%20method%20in%20object%2Doriented,a%20message%20and%20an%20object.&text=This%20allows%20the%20sending%20objects,behavior%20of%20a%20class%20object
     'What is a module?',  #
     'What is a function?',  # A grouped set of instructions that are given a name so they can be called elsewhere
     'What is a codebase?',  #
-    'What are data types?',  #
-    'What are data structures?',  #
-    'What are lambda functions?',  #
+    'What are data types?',  # data type or simply type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data
+    'What are data structures?',  # data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data
+    'What are lambda functions?',  # an anonymous function is a function definition that is not bound to an identifier, https://www.w3schools.com/python/python_lambda.asp
     'What does it mean to loop?',  # To repeat a certain set of instructions over and over (usually until some condition is met)
-    'What does it mean to refactor?',  #
-    'What is an attribute of a class?',  #
+    'What does it mean to refactor?',  # improving the internal structure of an existing program's source code, while preserving its external behavior
+    'What is an attribute of a class?',  # owned by the class itself and have the same value for every instance, https://www.python-course.eu/python3_class_and_instance_attributes.php#:~:text=Class%20Attributes&text=Class%20attributes%20are%20attributes%20which,right%20below%20the%20class%20header
     'What does it mean to concatenate?',  # To add two things together (strings, arrays, maps, etc.)
-    'What is exception handling? Why use it?',  #
-    'ELI5: What is Regular Expression (RegEx)?',  #
+    'What is exception handling? Why use it?',  # exception handling is the process of responding to the occurrence of exceptions – anomalous or exceptional conditions requiring special processing - during the execution of a program, https://en.wikipedia.org/wiki/Exception_handling
+    'ELI5: What is Regular Expression (RegEx)?',  # a sequence of characters that define a search pattern, https://www.geeksforgeeks.org/write-regular-expressions/
     'What does it mean to be "Turing complete"?',  #
     'What should you do when a line is too long?',  #
     'How is exception handling different from a loop?',  #
@@ -45,7 +45,7 @@ back_end_questions = [
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
     'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
     'What is the difference between "while loop" and "do-while loop"? \ncredit @in_skyacademy',  #
-    'What is the difference between "for loop" and "while loop"?',  #
+    'What is the difference between "for loop" and "while loop"?',  # In 'for' loop the initialization once done is never repeated. In while loop if initialization is done during condition checking, then initialization is done each time the loop iterate, https://techdifferences.com/differenece-between-for-and-while-loop.html#:~:text=In%20'for'%20loop%20the%20initialization,each%20time%20the%20loop%20iterate.&text=In%20'for'%20loop%20iteration%20statement,statements%20in%20loop%20are%20executed
     'Why should you push security keys to a public Github repo?  \n\ninspired by @cjtaylor2390',  # security
     'What is the best way to store passwords?  \n\ninspired by @cjtaylor2390',  # salt and hash
     'Stored passwords should be hashed. Why should they also be salted?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
@@ -55,7 +55,7 @@ back_end_questions = [
     'Why is readability so important?  \n\ninspired by @Treybastian',  #
     'Why should you avoid single letter variables? \n\ninspired by @Treybastian @cjtaylor2390',  # readability
     'What is a model?',  #
-    'What is abstraction?',  #
+    'What is abstraction?',  # hiding the unnecessary details from the users, https://stackify.com/oop-concept-abstraction/
     'What are the advanced functions in python?',  # map(), filter(), reduce()
     'What is python best at?',  #
 
