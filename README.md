@@ -31,11 +31,14 @@ All contributions are greatly appreciated.
 |Name|Contribution|GitHub|Twitter|
 |--|--|--|--|
 | Vicki Langer | the creator | https://github.com/VickiLanger | https://twitter.com/Vicki_Langer |
-| Yechiel Kalmenson | Added answers and questions / resolved bug | https://github.com/achasveachas | https://twitter.com/yechielk |
+| Yechiel Kalmenson | Added answers and questions / resolved bugs | https://github.com/achasveachas | https://twitter.com/yechielk |
 | Tyler VanBlargan | Reported a bug | https://github.com/12vanblart | https://twitter.com/pichuplayer |
 | Priyanshu Kumar Sinha | Added answers and questions | https://github.com/PriyanshuKumarSinha |  |
-| Your Name | Landing page/typos | GitHub link | twitter link|
-| Your Name | Added Questions | GitHub link | twitter link|
+| Shaona Kundu | Added answers | https://github.com/shaonakundu |  |
+| Anthony Oyakhilome Justice | Added an answer | https://github.com/oyakhilomee | https://linkedin.com/in/mr-oyakhilome |
+| Kandasamy Chokkalingam | Stopped repeating questions  | https://github.com/SamC302 |  d|
+| Muskan Jain | Added questions & answers | https://github.com/muskanapp | https://linkedin.com/in/muskan-jain-8582a9169/ |
+| Shubham Palriwala | Added Twitter Ads Poll ability | https://github.com/ShubhamPalriwala | shubhampalriwala.tech |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
