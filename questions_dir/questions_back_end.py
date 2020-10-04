@@ -60,6 +60,7 @@ back_end_questions = [
     'What is python best at?',  #
     'What is the difference between findOne() and find() in mongodb?', #The findOne() returns first document if query matches otherwise returns null. The find() method does not return null, it returns a cursor.
     'What is the difference between == and === in javascript?', # == compares two variables, but ignores the datatype of variable and === checks datatypes and compares two values.
+    'Why use database migrations?' # It is a way to version your application's schema. Migrations works on manipulating the database: creating, altering or removing.
 
     # Real life examples
     'What is a real life example of "exception handling"?',  #
