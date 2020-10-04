@@ -39,6 +39,7 @@ All contributions are greatly appreciated.
 | Kandasamy Chokkalingam | Stopped repeating questions  | https://github.com/SamC302 |  d|
 | Muskan Jain | Added questions & answers | https://github.com/muskanapp | https://linkedin.com/in/muskan-jain-8582a9169/ |
 | Shubham Palriwala | Added Twitter Ads Poll ability | https://github.com/ShubhamPalriwala | shubhampalriwala.tech |
+| Renan Miranda | Added questions & answers | https://github.com/renanlmiranda | https://linkedin.com/in/renanlmiranda |
 
 If you've contributed and would like to add your name to this list, please follow the example below. Copy and paste the below to the end of the above table, then change the info to your own.
 ```markdown
