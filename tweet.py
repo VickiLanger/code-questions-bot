@@ -37,6 +37,21 @@ def main():
     print("chose question: " + question)
     tweet = api.update_status(question)  # variable used later for reply to this tweet
     print('question has been tweeted')
+
+  
+ #   try:
+ #      if question:
+ #          api.update_status(question)
+ #   except tweepy.TweepError as e: #tweepy supports error message as well (https://stackoverflow.com/questions/17157753/get-the-error-code-from-tweepy-exception-instance)
+ #       api.update_status(f'I seem to not be working properly.Found {e.response.status} Bug @Vicki_Langer about getting me \
+ #                      fixed or help her out by submitting a pull request \
+ #                      https://github.com/VickiLanger/code-questions-bot')
+ #   finally:
+ #      api.update_status('I seem to not be working properly. Bug @Vicki_Langer about getting me \
+ #                      fixed or help her out by submitting a pull request \
+ #                      https://github.com/VickiLanger/code-questions-bot')
+
+
     api.update_status(status=reply_with, in_reply_to_status_id=tweet.id, auto_populate_reply_metadata=True)
     print('chose reply:' + reply_with)
     print('reply has been tweeted')
