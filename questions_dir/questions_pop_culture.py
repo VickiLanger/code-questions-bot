@@ -16,6 +16,7 @@ pop_culture_questions = [
     'What day is celebrated as Programmer\'s day? Why?\n#ProgrammersDay',  #
     '🐠In Mr. Robot, what is the name of Elliot\'s betta fish? @whoismrrobot #MrRobot',  # Qwerty
     'Why is Hacktoberfest done only once in a year? @Hacktoberfest #Hacktoberfest2020',  #
+    'What is the name of the Friends tv serie character that sings the song Smelly Cat',  # Phoebe Buffay
     # 'something... \n\n@HaltAMC #HaltandCatchFire',  #
     # 'something... \n\n@ZoeysPlaylist #ZoeysPlaylist',  #
     # 'something... \n\n@Devs_FXonHulu #Devs #FXonHulu',  #
