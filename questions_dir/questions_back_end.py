@@ -61,7 +61,7 @@ back_end_questions = [
     'What is the difference between findOne() and find() in mongodb?', #The findOne() returns first document if query matches otherwise returns null. The find() method does not return null, it returns a cursor.
     'What is the difference between == and === in javascript?', # == compares two variables, but ignores the datatype of variable and === checks datatypes and compares two values.
     'Why use database migrations?' # It is a way to version your application's schema. Migrations works on manipulating the database: creating, altering or removing.
-
+    'How is error handling done in golang?' #Go does not provide conventional try/catch method to handle the errors, instead, errors are returned as a normal return value.in Go, error has a different meaning.error is a built-in type in Go and its zero value is nil. An idiomatic way to handle an error is to return it as the last return value of a function call and check for the nil condition.
     # Real life examples
     'What is a real life example of "exception handling"?',  #
     'What is a real life example of "logical operators"?',  # if raining and dog_is_napping: skip_playing_ball
