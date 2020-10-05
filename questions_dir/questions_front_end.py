@@ -39,7 +39,7 @@ front_end_questions = [
     'What is lazy loading? What\'s it used for?',  # https://twitter.com/addyosmani/status/1227619409625174016?s=20
     'What is the difference between SASS and SCSS?',  #
     'How would you stop divs from overlaying after using position absolute?',  #
-
+    'What is the temporal dead zone?', # When you can't access a variable before it is initalized.
 
     # Real life examples
     'What is a real life example of "lazy loading"? ',  #
