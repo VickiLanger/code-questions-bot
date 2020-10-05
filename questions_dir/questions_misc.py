@@ -85,6 +85,7 @@ misc_questions = [
     'What is pair programming?',  #
     'What is Agile?',  #
     'What is scrum?',  #
+    'How do you customize your gitHub profile?', # Make a repo with the same as your github username https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile
 
     # Job Titles
     'What is a developer advocate?',  # https://dev.to/simo97/what-is-a-developer-advocate--1jei
