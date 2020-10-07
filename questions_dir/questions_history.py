@@ -28,4 +28,8 @@ history_questions = [
     'What was the first song ever sung by a computer?',  # "Daisy Bell" was composed by Harry Dacre in 1892. In 1961, the IBM 7094 became the first computer to sing, singing the song Daisy Bell
     'What\'s the story behind the first computer virus?',  # http://web.eecs.umich.edu/~aprakash/eecs588/handouts/cohen-viruses.html
     'What was the first computer bug?',  # an actual bug
+    'Who is the creator of Python?',  # Guido van Rossum
+    'How much did the first gigabyte drive cost?',  # $40,000
+    'Who is the father of Object oriented programming?', # Alan Kay
+    'When was the first computer game created?' # 1962
 ]
