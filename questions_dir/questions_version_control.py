@@ -17,12 +17,12 @@ version_control_questions = [
     'What do it mean to rebase?',  #
     'ELI5: What is Git?',  #
     'ELI5: What is version control?',  #
-    'What is a pull request?',  # 
+    'What is a pull request?',  # Pull requests let you tell others about changes you've pushed to a branch in a repository.
     'How do you name git branches?',  #
-    'What is a .gitignore file used for?',
-    'What is the difference between merge and rebase',  #
+    'What is a .gitignore file used for?',  # It specifies intentionally untracked files that Git should ignore
+    'What is the difference between merge and rebase',  # https://www.atlassian.com/git/tutorials/merging-vs-rebasing
     'What makes a good commit message?',  # tells why you made a change https://dev.to/yvonnickfrin/a-guide-on-commit-messages-d8n
-    'What are examples of software that can be used for version control other than git?',  # SVN
+    'What are examples of software that can be used for version control other than git?',  # SVN, Mercurial, Bazaar
     'What is a real life example of version control?',  #
     'What is the difference between a fix and a hotfix?',  #
     'What is a master branch?',  # 
