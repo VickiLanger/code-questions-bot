@@ -70,5 +70,5 @@ back_end_questions = [
     'What is a real life example of a "class" and some "attributes"?',  # dog: name, colors, age, chipped https://dev.to/vickilanger/charming-the-python-data-structures-154i
     'What is a real life example of a "for loop"?',  # for each dirty dish, clean dish
     'What is a real life example of a "while loop"?',  # while not napping, play fetch with dog
-    'What is one way to create a variable?",  # as function parameters, assigning a variable, 
+    'What is one way to create a variable?',  # as function parameters, assigning a variable, 
     ]
