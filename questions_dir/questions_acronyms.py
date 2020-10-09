@@ -48,4 +48,8 @@ acronym_questions = [
     'What does SaaS stands for? What is it?',  # Software as a Service, way of delivering applications over the Internet—as a service
     'What does WLAN stands for? What is it?',  # Wireless Local Area Network, a wireless computer network that links two or more devices using wireless communication to form a local area network (LAN) within a limited area such as a home, school, computer laboratory, campus, or office building.
     'What does ISP stands for? What is it?',  # Internet Service Provider, an organisation that provides services for accessing, using, or participating in the Internet
+    'What does SVM stand for? What is it?',  # Support Vector Machine, a machine learning algorithm
+    'What does CNN stand for? What is it?',  # Convolutional Neural Network, a neural network architecture that uses convolutions and it usually works with images
+    'What does RNN stand for? What is it?',  # Recurrent Neural Network, a neural network architecture, it works with texts and other sequences,
+    'What does SGD stand for? What is it?'  # Stochastic Gradient Descent, a method to train a neural network
     ]
