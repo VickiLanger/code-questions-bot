@@ -51,5 +51,5 @@ acronym_questions = [
     'What does SVM stand for? What is it?',  # Support Vector Machine, a machine learning algorithm
     'What does CNN stand for? What is it?',  # Convolutional Neural Network, a neural network architecture that uses convolutions and it usually works with images
     'What does RNN stand for? What is it?',  # Recurrent Neural Network, a neural network architecture, it works with texts and other sequences,
-    'What does SGD stand for? What is it?'  # Stochastic Gradient Descent, a method to train a neural network
+    'What does SGD stand for? What is it?',  # Stochastic Gradient Descent, a method to train a neural network
     ]
