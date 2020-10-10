@@ -29,7 +29,12 @@ history_questions = [
     'What\'s the story behind the first computer virus?',  # http://web.eecs.umich.edu/~aprakash/eecs588/handouts/cohen-viruses.html
     'What was the first computer bug?',  # an actual bug
     'Who is the creator of Python?',  # Guido van Rossum
+    'When Python was released?',  # 1991
+    'Who is the creator of Ruby?',  # Yukihiro Matsumoto
+    'When Ruby was released?',  # 1995
+    'Who is the creator of Elixir?',  # José Valim
+    'When Elixir was released?',  # 2011
     'How much did the first gigabyte drive cost?',  # $40,000
     'Who is the father of Object oriented programming?', # Alan Kay
-    'When was the first computer game created?' # 1962
+    'When was the first computer game created?', # 1962
 ]
