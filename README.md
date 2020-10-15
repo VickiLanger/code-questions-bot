@@ -8,6 +8,8 @@
 [![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/code-questions-bot.svg)](https://github.com/VickiLanger/code-questions-bot/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/code-questions-bot.svg)](https://GitHub.com/VickiLanger/code-questions-bot/graphs/contributors/)
 
+[![Follow on Twitter](https://img.shields.io/twitter/follow/CodeQBot?label=Follow&style=social)](https://twitter.com/CodeQBot)
+
 [Vicki](https://twitter.com/vicki_langer) wrote this about [Building the Code Question Bot](https://dev.to/vickilanger/code-questions-bot-42io)
 
 ## Mission
