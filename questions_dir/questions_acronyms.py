@@ -52,4 +52,6 @@ acronym_questions = [
     'What does CNN stand for? What is it?',  # Convolutional Neural Network, a neural network architecture that uses convolutions and it usually works with images
     'What does RNN stand for? What is it?',  # Recurrent Neural Network, a neural network architecture, it works with texts and other sequences,
     'What does SGD stand for? What is it?',  # Stochastic Gradient Descent, a method to train a neural network
+    'What does CSV stand for? What is it?',  # Comma Separated Values 
+    'What does KISS stand for? What is it?',  # Keep It Simple, Stupid
     ]
