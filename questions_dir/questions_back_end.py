@@ -44,16 +44,16 @@ back_end_questions = [
     'What is "!" used for in "!=" ?',  # Not
     'What is 0.1 + 0.2 in your language? Why?',  # https://0.30000000000000004.com/
     'What is polymorphism?',  # A programming language feature that allows the values of different data types to be handled using a uniform interface.
-    'What is the difference between "while loop" and "do-while loop"? \ncredit @in_skyacademy',  #
+    'What is the difference between "while loop" and "do-while loop"?',  #
     'What is the difference between "for loop" and "while loop"?',  # In 'for' loop the initialization once done is never repeated. In while loop if initialization is done during condition checking, then initialization is done each time the loop iterate, https://techdifferences.com/differenece-between-for-and-while-loop.html#:~:text=In%20'for'%20loop%20the%20initialization,each%20time%20the%20loop%20iterate.&text=In%20'for'%20loop%20iteration%20statement,statements%20in%20loop%20are%20executed
-    'Why should you push security keys to a public Github repo?  \n\ninspired by @cjtaylor2390',  # security
-    'What is the best way to store passwords?  \n\ninspired by @cjtaylor2390',  # salt and hash
-    'Stored passwords should be hashed. Why should they also be salted?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
-    'What are rainbow tables?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
-    'What does storing passwords have to do with breakfast?  \n\ninspired by @cjtaylor2390',  # https://twitter.com/cjtaylor2390/status/1234516501908115459?s=20
-    'What are tests for?  \n\ninspired by @Treybastian',  #
-    'Why is readability so important?  \n\ninspired by @Treybastian',  #
-    'Why should you avoid single letter variables? \n\ninspired by @Treybastian @cjtaylor2390',  # readability
+    'Why should you push security keys to a public Github repo?',  # security
+    'What is the best way to store passwords?',  # salt and hash
+    'Stored passwords should be hashed. Why should they also be salted?',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
+    'What are rainbow tables?',  # https://twitter.com/cjtaylor2390/status/1234519650026827778?s=20
+    'What does storing passwords have to do with breakfast?',  # https://twitter.com/cjtaylor2390/status/1234516501908115459?s=20
+    'What are tests for?',  #
+    'Why is readability so important?',  #
+    'Why should you avoid single letter variables?',  # readability
     'What is a model?',  #
     'What is abstraction?',  # hiding the unnecessary details from the users, https://stackify.com/oop-concept-abstraction/
     'What are the advanced functions in python?',  # map(), filter(), reduce()
@@ -62,6 +62,7 @@ back_end_questions = [
     'What is the difference between == and === in javascript?', # == compares two variables, but ignores the datatype of variable and === checks datatypes and compares two values.
     'Why use database migrations?' # It is a way to version your application's schema. Migrations works on manipulating the database: creating, altering or removing.
     'How is error handling done in golang?' #Go does not provide conventional try/catch method to handle the errors, instead, errors are returned as a normal return value.in Go, error has a different meaning.error is a built-in type in Go and its zero value is nil. An idiomatic way to handle an error is to return it as the last return value of a function call and check for the nil condition.
+    
     # Real life examples
     'What is a real life example of "exception handling"?',  #
     'What is a real life example of "logical operators"?',  # if raining and dog_is_napping: skip_playing_ball
