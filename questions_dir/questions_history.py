@@ -37,4 +37,6 @@ history_questions = [
     'How much did the first gigabyte drive cost?',  # $40,000
     'Who is the father of Object oriented programming?', # Alan Kay
     'When was the first computer game created?', # 1962
+    'Who is the creator of C#?',  # Anders Hejlsberg
+    'When .Net Core was released?',  # 2016
 ]
