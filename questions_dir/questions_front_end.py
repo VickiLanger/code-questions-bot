@@ -40,6 +40,8 @@ front_end_questions = [
     'What is the difference between SASS and SCSS?',  #
     'How would you stop divs from overlaying after using position absolute?',  #
     'What is the temporal dead zone?', # When you can't access a variable before it is initalized.
+    'What is the Hamburger menu?',  # Button used in frontend to denote a side menu/ navigation drawer
+    'Why should frontend devs know SEO?',  # To Optimize the website for search rankings through suitable HTML elements
 
     # Real life examples
     'What is a real life example of "lazy loading"? ',  #
