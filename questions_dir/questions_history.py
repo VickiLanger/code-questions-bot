@@ -39,4 +39,5 @@ history_questions = [
     'When was the first computer game created?', # 1962
     'Who is the creator of C#?',  # Anders Hejlsberg
     'When .Net Core was released?',  # 2016
+    'When was the first 1GB hard disk released?',  # 1980; it weighed 550 pounds, and costed $40,000!
 ]
