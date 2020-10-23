@@ -8,6 +8,7 @@ Vicki Langer (@vicki_langer)
 # NOTE: emojis and fun welcome; seriousness will be banned
 
 fun_questions = [
+    'Why does Python live on land?',  # Because it's above C-level
     'Wrong answers only!\nWhat does CSS stand for?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
     'Wrong answers only!\nWhat is HTML?\n👇🏼👇🏾👇🏿👇🏻👇🏽',
     'Wrong answers only!\nWhat is SVG?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
