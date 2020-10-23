@@ -54,4 +54,10 @@ acronym_questions = [
     'What does SGD stand for? What is it?',  # Stochastic Gradient Descent, a method to train a neural network
     'What does CSV stand for? What is it?',  # Comma Separated Values 
     'What does KISS stand for? What is it?',  # Keep It Simple, Stupid
+    'What does BIOS stand for?',  # Basic Input Output System
+    'What does CAD stand for?',  # Computer Aided Design, for example - AutoCAD
+    'What does CLI stand for?',  # Command Line Interface
+    'What is the full form of FORTRAN, the programming language?',  # FORmula TRANslation
+    'What does GNU stand for?',  # Gnu Not Unix
+
     ]
