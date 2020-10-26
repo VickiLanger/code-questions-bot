@@ -15,12 +15,12 @@ misc_questions = [
     'What is the name of the Java mascot?',  # Duke
     'In a tree, where is the root?',  # The top
     'In terms of coding: when may a parent kill a child?',  # if the task assigned to them is no longer needed
-    'What is a DDoS attack?',  #
+    'What is a DDoS attack?',  # Distributed Denial of Service attack, flooding a server with a massive amount of requests that it can't keep up with to keep it from being accessed - example being 500 people constantly calling your phone so that you can't dial out or a real call can't get dialed in
     'ELI5: What is cache?',  #
     #'ELI5: What is an IDE?',  #
     'What is a code smell?',  #
     'ELI5: What is cookies?',  #
-    'What are comments for?',  #
+    'What are comments for?',  # Describing sections of code, To Do lists, or anything else that is useful but shouldn't be interpreted by the system as actual code
     'ELI5: What is the cloud?',  #
     'What is the "black box?"',  #
     'ELI5: What is debugging?',  #

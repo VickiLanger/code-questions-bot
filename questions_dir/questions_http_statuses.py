@@ -32,5 +32,5 @@ http_status_questions = [
     'Answer with a GIF. \nWhat is HTTP status 500?',  # Internal Server Error https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 503?',  # Service Not Available https://httpstatuses.com
     'Answer with a GIF. \nWhat is HTTP status 508?',  # Loop Detected https://httpstatuses.com
-    'What is a real life metaphor of "HTTP statuses"?',  # 
+    'What is a real life metaphor of "HTTP statuses"?',  # Several HTTP Statuses, such as 301, 307, 308, and 402, have fairly direct parallels in the United States Postal Service
     ]
