@@ -25,5 +25,22 @@ fun_questions = [
     'What does a bubble sort look like?',
     'Where are bubble sorts used in production?',
     'Who is using bubble sort outside of code interviews?',
+
+    # quick sort
+    'Why would you use quick sort?',
+    'When is it best to use a quick sort?',
+    'How does a quick sort work?',
+    'What does a quick sort look like?',
+    'Where are quick sorts used in production?',
+    'Who is using quick sort outside of code interviews?',
+
+    # breath first search
+    'Why would you use breath first search?',
+    'When is it best to use a breath first search?',
+    'How does a breath first search work?',
+    'What does a breath first search look like?',
+    'Where are breath first searches used in production?',
+    'Who is using breath first search outside of code interviews?',
+  
   
 ]
