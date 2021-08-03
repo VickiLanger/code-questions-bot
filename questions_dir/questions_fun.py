@@ -13,16 +13,16 @@ fun_questions = [
     'Wrong answers only!\nWhat is HTML?\n👇🏼👇🏾👇🏿👇🏻👇🏽',
     'Wrong answers only!\nWhat is SVG?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
     'Wrong answers only!\nWhat is programming?\n👇🏻👇🏽👇🏼👇🏾👇🏿', # According to my grandmother, successfully setting the clock on the VCR
-    'Wrong answers only!\nWhat is JavaScript?\n👇🏿👇🏻👇🏽👇🏼👇🏾', # The fancy writing used by baristas to put your name on your cup
+    'Wrong answers only!\nWhat is JavaScript?\n👇🏿👇🏻👇🏽👇🏼👇🏾',  # The fancy writing used by baristas to put your name on your cup
     'Wrong answers only!\nWhat is a software engineer?\n👇🏾👇🏿👇🏻👇🏽👇🏼', 
-    'Wrong answers only!\nWhat is @StackOverflow?\n👇🏼👇🏾👇🏿👇🏻👇🏽', # When you lose in Jenga
+    'Wrong answers only!\nWhat is @StackOverflow?\n👇🏼👇🏾👇🏿👇🏻👇🏽',  # When you lose in Jenga
     'Wrong answers only!\nWhat is @GitHub?\n👇🏽👇🏼👇🏾👇🏿👇🏻', 
     'Wrong answers only!\nWhat is @GitLab?\n👇🏻👇🏽👇🏼👇🏾👇🏿',
     'Wrong answers only!\nWhat is @ThePracticalDev?\n👇🏿👇🏻👇🏽👇🏼👇🏾',
-    'Wrong answers only!\nWhat is @CodePen?\n👇🏾👇🏿👇🏻👇🏽👇🏼', # The fenced in area where code lives
-    'Wrong answers only!\nWhat is @GetMakerlog?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
-    'Wrong answers only!\nWhat does PWA stand for?\n👇🏻👇🏽👇🏼👇🏾👇🏿 \n\ninspired by a tweet from @matvelloso',
-    'Wrong answers only!\nWhat is #Kubernetes ?\n👇🏿👇🏻👇🏽👇🏼👇🏾 \n\ninspired by a tweet from @ChiefScientist',
+    'Wrong answers only!\nWhat is css-tricks.com/\n👇🏾👇🏿👇🏻👇🏽👇🏼',  # The fenced in area where code lives
+    'Wrong answers only!\nWhat is A11y?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
+    'Wrong answers only!\nWhat does PWA stand for?\n👇🏻👇🏽👇🏼👇🏾👇🏿 ',
+    'Wrong answers only!\nWhat is Kubernetes ?\n👇🏿👇🏻👇🏽👇🏼👇🏾',
     'Wrong answers only!\nWhat is IDE ?\n👇🏾👇🏿👇🏻👇🏽👇🏼',
     #'Wrong answers only!\nWhat is ?\n👇🏽👇🏼👇🏾👇🏿👇🏻',
     #'Wrong answers only!\nWhat is ?\n👇🏻👇🏽👇🏼👇🏾👇🏿',
