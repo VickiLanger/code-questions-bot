@@ -7,7 +7,7 @@ Vicki Langer (@vicki_langer)
 # TODO: add more questions
 # NOTE: what/when/why/where/how of typical algorithms and other questions about algorithms
 
-fun_questions = [
+algorithm_questions = [
     
     #binary search trees
     'Why would you use a binary tree?',
@@ -17,6 +17,7 @@ fun_questions = [
     'Where are binary trees used in production?',
     'Who is using binary trees outside of code interviews?',
     'How would you traverse a binary tree?',
+    'If you needed help implementing a binary tree, what reference would you go to first?',
     
     # bubble sort
     'Why would you use bubble sort?',
