@@ -17,6 +17,7 @@ from questions_dir.questions_personal import personal_questions
 from questions_dir.questions_pop_culture import pop_culture_questions
 from questions_dir.questions_version_control import version_control_questions
 from questions_dir.facts import facts
+from questions_dir.algorithm_questions import algotithm_questions
 
 
 # TODO: add more questions
@@ -37,4 +38,5 @@ QUESTIONS = (
     + pop_culture_questions
     + version_control_questions
     + facts
+    + algorithm_questions
     )
