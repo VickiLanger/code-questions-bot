@@ -73,5 +73,5 @@ personal_questions = [
     '🐈 Show us your kitties!\n#TechCats',
     '🐕🐩 Show us your pups!',
     'Do you have an open source project you would like help with? \nWhat help is needed? \nShare a link',
-    'Do you believe most IoT devices, on the market right now, are secure enough? \ninspired from a #modernweb meetup talk by @cotufa82 at @pendoio',
+    'Do you believe most IoT devices, on the market right now, are secure enough?',
     ]
