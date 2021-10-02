@@ -78,6 +78,7 @@ misc_questions = [
     'When should you use a while loop?',  # wanted do do something as long as certain condition is true
     'When should you use a loop?',  # repeated actions
     'When should you use a switch statements instead of if-else statements',  #
+    'Why is it called "Hacktoberfest"?'
 
     # on the job stuff?
     'What is a code review?',  #
